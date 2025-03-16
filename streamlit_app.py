@@ -72,7 +72,7 @@ with tabs[0]:
     fig_solv.update_layout(xaxis_title='Solvents')
     st.plotly_chart(fig_solv, use_container_width=True)
 
-    fig_solv_smiles = px.bar(solvents, x='Solvent', y='count', text='count', title="Most popular solvents by number of unique molecules")
+    fig_solv_smiles = px.bar(top_solvents_by_smiles, x='Solvent', y='count', text='count', title="Most popular solvents by number of unique molecules")
     fig_solv_smiles.update_layout(yaxis_title='Number of molecules')
     fig_solv_smiles.update_layout(xaxis_title='Solvents')
     st.plotly_chart(fig_solv_smiles, use_container_width=True)
