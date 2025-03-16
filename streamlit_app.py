@@ -62,9 +62,9 @@ with tabs[0]:
     fig_sol.update_layout(xaxis_title='Solubility')
     col1fig.plotly_chart(fig_sol)
 
-    fig_log_sol = px.histogram(df, x='Log_Solubility', nbins=64, title='Mole fraction solubility distribution in the BigSolDB 2.0')
+    fig_log_sol = px.histogram(df, x='LogS', nbins=64, title='Solubility (mol/L) distribution in the BigSolDB 2.0')
     fig_log_sol.update_layout(yaxis_title='Number of entries')
-    fig_log_sol.update_layout(xaxis_title='Log10 Solubility')
+    fig_log_sol.update_layout(xaxis_title='Log10 Solubility (Mol/L)')
     col2fig.plotly_chart(fig_log_sol)
 
     fig_solv = px.bar(solvents, x='Solvent', y='count', text='count', title="Most popular solvents by number of entries")
