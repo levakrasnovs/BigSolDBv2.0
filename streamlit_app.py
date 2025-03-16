@@ -59,10 +59,10 @@ col1intro.markdown(f"""
 
 col2intro.markdown(f"""
 # Overall stats:
-{n_smiles} unique molecules
-{n_sources} literature sources
-{n_solvents} solvents
-{t_min}-{t_max} temperature range
+* **{n_smiles}** unique molecules
+* **{n_sources}** literature sources
+* **{n_solvents}** solvents
+* **{t_min}-{t_max}** temperature range
 """)
 
 tabs = st.tabs(["Explore", "Search"])
