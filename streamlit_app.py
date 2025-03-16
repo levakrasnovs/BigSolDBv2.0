@@ -44,6 +44,7 @@ solvents = df['Solvent'].value_counts().reset_index().loc[:50]
 
 top_solvents = df["Solvent"].value_counts().nlargest(10).index
 df_top_solvents = df[df["Solvent"].isin(top_solvents)]
+top_solvents_by_smiles = df.groupby("Solvent")["SMILES"].nunique().nlargest(50)
 
 col1intro, col2intro = st.columns([2, 1])
 col1intro.markdown("""
@@ -66,10 +67,15 @@ with tabs[0]:
     fig_log_sol.update_layout(xaxis_title='Log10 Solubility')
     col2fig.plotly_chart(fig_log_sol)
 
-    fig_solv = px.bar(solvents, x='Solvent', y='count', text='count', title="Most popular solvents")
+    fig_solv = px.bar(solvents, x='Solvent', y='count', text='count', title="Most popular solvents by number of entries")
     fig_solv.update_layout(yaxis_title='Number of entries')
     fig_solv.update_layout(xaxis_title='Solvents')
     st.plotly_chart(fig_solv, use_container_width=True)
+
+    fig_solv_smiles = px.bar(solvents, x='Solvent', y='count', text='count', title="Most popular solvents by number of unique molecules")
+    fig_solv_smiles.update_layout(yaxis_title='Number of molecules')
+    fig_solv_smiles.update_layout(xaxis_title='Solvents')
+    st.plotly_chart(fig_solv_smiles, use_container_width=True)
 
     fig_hist = px.histogram(df_top_solvents, x="Log_Solubility", color="Solvent", nbins=30,
                        opacity=0.6, barmode="overlay",
