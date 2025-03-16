@@ -62,7 +62,7 @@ with tabs[0]:
     fig_sol.update_layout(xaxis_title='Solubility')
     col1fig.plotly_chart(fig_sol)
 
-    fig_log_sol = px.histogram(df, x='LogS', nbins=64, title='Solubility (mol/L) distribution in the BigSolDB 2.0')
+    fig_log_sol = px.histogram(df, x='LogS', nbins=64, title='Solubility (Mol/L) distribution in the BigSolDB 2.0')
     fig_log_sol.update_layout(yaxis_title='Number of entries')
     fig_log_sol.update_layout(xaxis_title='Log10 Solubility (Mol/L)')
     col2fig.plotly_chart(fig_log_sol)
@@ -77,11 +77,11 @@ with tabs[0]:
     fig_solv_smiles.update_layout(xaxis_title='Solvents')
     st.plotly_chart(fig_solv_smiles, use_container_width=True)
 
-    fig_hist = px.histogram(df_top_solvents, x="Log_Solubility", color="Solvent", nbins=30,
+    fig_hist = px.histogram(df_top_solvents, x="LogS", color="Solvent", nbins=30,
                        opacity=0.6, barmode="overlay",
-                       title="Log10(Solubility) histograms for top 10 solvents")
+                       title="Log10 Solubility (Mol/L) histograms for top 10 solvents")
     fig_hist.update_layout(yaxis_title='Number of entries')
-    fig_hist.update_layout(xaxis_title='Log10 Solubility')
+    fig_hist.update_layout(xaxis_title='Log10 Solubility (Mol/L)')
     st.plotly_chart(fig_hist, use_container_width=True)
 
 with tabs[1]:
