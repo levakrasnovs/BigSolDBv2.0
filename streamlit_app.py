@@ -46,6 +46,7 @@ top_solvents = df["Solvent"].value_counts().nlargest(10).index
 df_top_solvents = df[df["Solvent"].isin(top_solvents)]
 top_solvents_by_smiles = df.groupby("Solvent")["SMILES"].nunique().nlargest(50).reset_index()
 
+n_entries = df.shape[0]
 n_smiles = df['SMILES'].nunique()
 n_sources = df['Source'].nunique()
 n_solvents = df['Solvent'].nunique()
@@ -59,6 +60,7 @@ col1intro.markdown(f"""
 
 col2intro.markdown(f"""
 # Overall stats:
+* **{n_entries}** number of entries
 * **{n_smiles}** unique molecules
 * **{n_sources}** literature sources
 * **{n_solvents}** solvents
