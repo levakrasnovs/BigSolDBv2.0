@@ -46,12 +46,24 @@ top_solvents = df["Solvent"].value_counts().nlargest(10).index
 df_top_solvents = df[df["Solvent"].isin(top_solvents)]
 top_solvents_by_smiles = df.groupby("Solvent")["SMILES"].nunique().nlargest(50).reset_index()
 
-col1intro, col2intro = st.columns([2, 1])
-col1intro.markdown("""
+n_smiles = df['SMILES'].nunique()
+n_sources = df['Source'].nunique()
+n_solvents = df['Solvent'].nunique()
+t_min = df['T,K'].min()
+t_max = df['T,K'].max()
+col1intro, col2intro = st.columns([1, 2])
+col1intro.markdown(f"""
 # BigSolDB 2.0
 
 """)
 
+col2intro.markdown(f"""
+# Overall stats:
+{n_smiles} unique molecules
+{n_sources} literature sources
+{n_solvents} solvents
+{t_min}-{t_max} temperature range
+""")
 
 tabs = st.tabs(["Explore", "Search"])
 
