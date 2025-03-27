@@ -34,24 +34,23 @@ if "visibility" not in st.session_state:
 st.set_page_config(page_title='BigSolDBv2.0', layout="wide")
 
 df = pd.read_csv('BigSolDBv2.0.csv')
-df['Log_Solubility'] = df['Solubility'].apply(lambda x: log10(x))
 
-df_smiles = pd.DataFrame({'SMILES': list(df['SMILES'].unique())})
-df_smiles['mol'] = df_smiles['SMILES'].apply(Chem.MolFromSmiles)
+df_smiles = pd.DataFrame({'SMILES_Solute': list(df['SMILES_Solute'].unique())})
+df_smiles['mol'] = df_smiles['SMILES_Solute'].apply(Chem.MolFromSmiles)
 df_smiles['mol_ecfp'] = df_smiles['mol'].apply(lambda x: calc(x))
 
 solvents = df['Solvent'].value_counts().reset_index().loc[:50]
 
 top_solvents = df["Solvent"].value_counts().nlargest(10).index
 df_top_solvents = df[df["Solvent"].isin(top_solvents)]
-top_solvents_by_smiles = df.groupby("Solvent")["SMILES"].nunique().nlargest(50).reset_index()
+top_solvents_by_smiles = df.groupby("Solvent")["SMILES_Solute"].nunique().nlargest(50).reset_index()
 
 n_entries = df.shape[0]
-n_smiles = df['SMILES'].nunique()
+n_smiles = df['SMILES_Solute'].nunique()
 n_sources = df['Source'].nunique()
 n_solvents = df['Solvent'].nunique()
-t_min = df['T,K'].min()
-t_max = df['T,K'].max()
+t_min = df['Temperature_K'].min()
+t_max = df['Temperature_K'].max()
 col1intro, col2intro = st.columns([1, 2])
 col1intro.markdown(f"""
 # BigSolDB 2.0
@@ -71,12 +70,12 @@ tabs = st.tabs(["Explore", "Search"])
 
 with tabs[0]:
     col1fig, col2fig = st.columns([1, 1])
-    fig_sol = px.histogram(df, x='Solubility', nbins=64, title='Mole fraction solubility distribution in the BigSolDB 2.0')
+    fig_sol = px.histogram(df, x='Solubility(mole_fraction)', nbins=64, title='Mole fraction solubility distribution in the BigSolDB 2.0')
     fig_sol.update_layout(yaxis_title='Number of entries')
-    fig_sol.update_layout(xaxis_title='Solubility')
+    fig_sol.update_layout(xaxis_title='Solubility(mole fraction)')
     col1fig.plotly_chart(fig_sol)
 
-    fig_log_sol = px.histogram(df, x='LogS', nbins=64, title='Solubility (Mol/L) distribution in the BigSolDB 2.0')
+    fig_log_sol = px.histogram(df, x='LogS(mol/L)', nbins=64, title='Solubility (Mol/L) distribution in the BigSolDB 2.0')
     fig_log_sol.update_layout(yaxis_title='Number of entries')
     fig_log_sol.update_layout(xaxis_title='Log10 Solubility (Mol/L)')
     col2fig.plotly_chart(fig_log_sol)
@@ -86,12 +85,12 @@ with tabs[0]:
     fig_solv.update_layout(xaxis_title='Solvents')
     st.plotly_chart(fig_solv, use_container_width=True)
 
-    fig_solv_smiles = px.bar(top_solvents_by_smiles, x='Solvent', y='SMILES', text='SMILES', title="Most popular solvents by number of unique molecules")
+    fig_solv_smiles = px.bar(top_solvents_by_smiles, x='Solvent', y='SMILES_Solute', text='SMILES_Solute', title="Most popular solvents by number of unique molecules")
     fig_solv_smiles.update_layout(yaxis_title='Number of molecules')
     fig_solv_smiles.update_layout(xaxis_title='Solvents')
     st.plotly_chart(fig_solv_smiles, use_container_width=True)
 
-    fig_hist = px.histogram(df_top_solvents, x="LogS", color="Solvent", nbins=30,
+    fig_hist = px.histogram(df_top_solvents, x="LogS(mol/L)", color="Solvent", nbins=30,
                        opacity=0.6, barmode="overlay",
                        title="Log10 Solubility (Mol/L) histograms for top 10 solvents")
     fig_hist.update_layout(yaxis_title='Number of entries')
@@ -127,14 +126,14 @@ with tabs[1]:
                         col3result.markdown(f'**Source**')
                         col4result.markdown(f'**Solubility**')
                         df_smiles['res_dist'] = df_smiles['mol_ecfp'].apply(lambda ecfp: hamming_distance(calc(mol), ecfp))
-                        similar_smiles = df_smiles[df_smiles['res_dist'] == df_smiles['res_dist'].min()]['SMILES'].tolist()
+                        similar_smiles = df_smiles[df_smiles['res_dist'] == df_smiles['res_dist'].min()]['SMILES_Solute'].tolist()
                         for similar_smi in similar_smiles:
-                            search_df = df[(df['SMILES'] == similar_smi)]
+                            search_df = df[(df['SMILES_Solute'] == similar_smi)]
                             dois = list(search_df['Source'].unique())
                             for doi in dois:
                                 col1result, col2result, col3result, col4result = st.columns([1, 1, 1, 3])
-                                df_comp = search_df[(search_df['Source'] == doi) & (search_df['SMILES'] == similar_smi)]
-                                fig_line = px.line(df_comp, x="T,K", y="Solubility", color="Solvent", title=f"Dependence of solubility on temperature", markers=True)
+                                df_comp = search_df[(search_df['Source'] == doi) & (search_df['SMILES_Solute'] == similar_smi)]
+                                fig_line = px.line(df_comp, x="Temperature_K", y="Solubility(mole_fraction)", color="Solvent", title=f"Dependence of solubility on temperature", markers=True)
                                 fig_line.update_layout(yaxis_title='Solubility (mole fraction)')
                                 col1result.image(draw_molecule(canonize_mol), caption=canonize_mol)
                                 col2result.image(draw_molecule(similar_smi), caption=similar_smi)
@@ -149,8 +148,8 @@ with tabs[1]:
                         dois = list(search_df['Source'].unique())
                         for doi in dois:
                             col1result, col2result, col3result = st.columns([1, 1, 2])
-                            df_comp = search_df[(search_df['Source'] == doi) & (search_df['SMILES'] == canonize_mol)]
-                            fig_line = px.line(df_comp, x="T,K", y="Solubility", color="Solvent", title=f"Dependence of solubility on temperature", markers=True)
+                            df_comp = search_df[(search_df['Source'] == doi) & (search_df['SMILES_Solute'] == canonize_mol)]
+                            fig_line = px.line(df_comp, x="Temperature_K", y="Solubility(mole_fraction)", color="Solvent", title=f"Dependence of solubility on temperature", markers=True)
                             fig_line.update_layout(yaxis_title='Solubility (mole fraction)')
                             col1result.image(draw_molecule(canonize_mol), caption=smiles)
                             col2result.markdown(f'**https://doi.org/{doi}**')
