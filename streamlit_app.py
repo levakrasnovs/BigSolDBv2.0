@@ -118,6 +118,7 @@ with tabs[1]:
             col1result.image(draw_molecule(canonize_mol), caption=canonize_mol)
             col2result.markdown(f'**https://doi.org/{doi}**')
             col3result.plotly_chart(fig_line)
+        st.dataframe(search_df)
 
 with tabs[2]:
 
