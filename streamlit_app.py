@@ -102,7 +102,7 @@ with tabs[1]:
     selected = st.selectbox("Choose moecule", compound_names)
     search_df = df[(df['Compound_Name'] == selected)]
     canonize_mol = search_df['SMILES_Solute'].iloc[0]
-    
+
     st.markdown(f'### This compound was found in BigSolDB 2.0:')
     col1result, col2result, col3result = st.columns([1, 1, 2])
     col1result.markdown(f'**Molecule from BigSolDB 2.0**')
@@ -114,7 +114,7 @@ with tabs[1]:
         df_comp = search_df[(search_df['Source'] == doi) & (search_df['SMILES_Solute'] == canonize_mol)]
         fig_line = px.line(df_comp, x="Temperature_K", y="Solubility(mole_fraction)", color="Solvent", title=f"Dependence of solubility on temperature", markers=True)
         fig_line.update_layout(yaxis_title='Solubility (mole fraction)')
-        col1result.image(draw_molecule(canonize_mol), caption=smiles)
+        col1result.image(draw_molecule(canonize_mol), caption=canonize_mol)
         col2result.markdown(f'**https://doi.org/{doi}**')
         col3result.plotly_chart(fig_line)
 with tabs[2]:
