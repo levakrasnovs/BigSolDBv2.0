@@ -99,7 +99,7 @@ with tabs[0]:
 
 with tabs[1]:
 
-    selected = st.selectbox(label='Choose molecule', options=compound_names, placeholder='Paracetamol', label_visibility='hidden')
+    selected = st.selectbox(label='Choose molecule', options=compound_names, index=None, placeholder='Paracetamol')
     search_df = df[(df['Compound_Name'] == selected)]
     canonize_mol = search_df['SMILES_Solute'].iloc[0]
 
