@@ -57,6 +57,7 @@ col1intro, col2intro = st.columns([1, 2])
 col1intro.markdown(f"""
 # BigSolDB 2.0
 
+Download BigSolDB 2.0: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15094979.svg)](https://doi.org/10.5281/zenodo.15094979)
 """)
 
 col2intro.markdown(f"""
