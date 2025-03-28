@@ -35,7 +35,7 @@ st.set_page_config(page_title='BigSolDBv2.0', layout="wide")
 df = pd.read_csv('BigSolDBv2.0.csv')
 df['PubChem_CID'] = df['PubChem_CID'].astype('Int64')
 compound_names = sorted(df['Compound_Name'].unique().tolist())
-fda_compound_names = sorted(df[df['FDA_Approved'] == 'Yes']]['Compound_Name'].unique().tolist())
+fda_compound_names = sorted(df[df['FDA_Approved'] == 'Yes']['Compound_Name'].unique().tolist())
 
 df_smiles = pd.DataFrame({'SMILES_Solute': list(df['SMILES_Solute'].unique())})
 df_smiles['mol'] = df_smiles['SMILES_Solute'].apply(Chem.MolFromSmiles)
