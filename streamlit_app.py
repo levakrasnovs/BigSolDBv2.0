@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from math import log10
 import plotly.express as px
 import streamlit as st
 from rdkit import Chem
