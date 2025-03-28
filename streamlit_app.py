@@ -33,6 +33,7 @@ if "visibility" not in st.session_state:
 st.set_page_config(page_title='BigSolDBv2.0', layout="wide")
 
 df = pd.read_csv('BigSolDBv2.0.csv')
+df['PubChem CID'] = df['PubChem CID'].astype('Int64')
 compound_names = sorted(df['Compound_Name'].unique().tolist())
 
 df_smiles = pd.DataFrame({'SMILES_Solute': list(df['SMILES_Solute'].unique())})
@@ -110,7 +111,7 @@ with tabs[1]:
             col1result.markdown(f'PubChem link: **https://pubchem.ncbi.nlm.nih.gov/compound/{pubchem}**')
         if cas is not None:
             col2result.markdown(f'CAS link: **https://commonchemistry.cas.org/detail?cas_rn={cas}**')
-            
+
         canonize_mol = search_df['SMILES_Solute'].iloc[0]
         col1result, col2result, col3result = st.columns([1, 1, 2])
         col1result.markdown(f'**Molecule from BigSolDB 2.0**')
