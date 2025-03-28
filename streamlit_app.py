@@ -149,6 +149,7 @@ with tabs[2]:
                 if check_mol(mol):
                     canonize_mol = Chem.MolToSmiles(mol)
                     search_df = df[(df['SMILES_Solute'] == canonize_mol)]
+                    search_df.reset_index(drop=True, inplace=True)
                     if search_df.shape[0] == 0:
                         st.markdown(f'### This compound was not found in BigSolDB 2.0, but similar was found instead:')
                         col1result, col2result, col3result, col4result = st.columns([1, 1, 1, 3])
@@ -172,6 +173,13 @@ with tabs[2]:
                                 col4result.plotly_chart(fig_line)
                     else:
                         st.markdown(f'### This compound was found in BigSolDB 2.0:')
+                        col1result, col2result = st.columns([1, 1])
+                        pubchem = search_df['PubChem_CID'].iloc[0]
+                        cas = search_df['CAS'].iloc[0]
+                        if pubchem is not None:
+                            col1result.markdown(f'PubChem link: **https://pubchem.ncbi.nlm.nih.gov/compound/{pubchem}**')
+                        if cas is not None:
+                            col2result.markdown(f'CAS link: **https://commonchemistry.cas.org/detail?cas_rn={cas}**')
                         col1result, col2result, col3result = st.columns([1, 1, 2])
                         col1result.markdown(f'**Molecule from BigSolDB 2.0**')
                         col2result.markdown(f'**Source**')
@@ -185,7 +193,7 @@ with tabs[2]:
                             col1result.image(draw_molecule(canonize_mol), caption=smiles)
                             col2result.markdown(f'**https://doi.org/{doi}**')
                             col3result.plotly_chart(fig_line)
-
+                        st.dataframe(search_df)
             else:
                 st.error("Incorrect SMILES entered")
         else:
