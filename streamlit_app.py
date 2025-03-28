@@ -34,6 +34,7 @@ if "visibility" not in st.session_state:
 st.set_page_config(page_title='BigSolDBv2.0', layout="wide")
 
 df = pd.read_csv('BigSolDBv2.0.csv')
+compound_names = df['Compound_Name'].tolist()
 
 df_smiles = pd.DataFrame({'SMILES_Solute': list(df['SMILES_Solute'].unique())})
 df_smiles['mol'] = df_smiles['SMILES_Solute'].apply(Chem.MolFromSmiles)
@@ -66,7 +67,7 @@ col2intro.markdown(f"""
 * **{t_min}-{t_max}** temperature range
 """)
 
-tabs = st.tabs(["Explore", "Search"])
+tabs = st.tabs(["Explore", "Search by Compound Name", "Search by Molecular Structure"])
 
 with tabs[0]:
     col1fig, col2fig = st.columns([1, 1])
@@ -98,6 +99,12 @@ with tabs[0]:
     st.plotly_chart(fig_hist, use_container_width=True)
 
 with tabs[1]:
+
+    selected = st.selectbox("Choose moecule", compound_names)
+
+    st.write(f"Ты выбрал: {selected}")
+
+with tabs[2]:
 
     st.markdown("""Draw your molecule to get SMILES and search in the database:""")
 
