@@ -106,32 +106,32 @@ with tabs[1]:
         selected = st.selectbox(label='Choose molecule', options=fda_compound_names, index=None, placeholder='Paracetamol')
     else:
         selected = st.selectbox(label='Choose molecule', options=compound_names, index=None, placeholder='Paracetamol')
-        if selected:
-            search_df = df[(df['Compound_Name'] == selected)]
-            search_df.reset_index(drop=True, inplace=True)
-            col1result, col2result = st.columns([1, 1])
-            pubchem = search_df['PubChem_CID'].iloc[0]
-            cas = search_df['CAS'].iloc[0]
-            if pubchem is not None:
-                col1result.markdown(f'PubChem link: **https://pubchem.ncbi.nlm.nih.gov/compound/{pubchem}**')
-            if cas is not None:
-                col2result.markdown(f'CAS link: **https://commonchemistry.cas.org/detail?cas_rn={cas}**')
+    if selected:
+        search_df = df[(df['Compound_Name'] == selected)]
+        search_df.reset_index(drop=True, inplace=True)
+        col1result, col2result = st.columns([1, 1])
+        pubchem = search_df['PubChem_CID'].iloc[0]
+        cas = search_df['CAS'].iloc[0]
+        if pubchem is not None:
+            col1result.markdown(f'PubChem link: **https://pubchem.ncbi.nlm.nih.gov/compound/{pubchem}**')
+        if cas is not None:
+            col2result.markdown(f'CAS link: **https://commonchemistry.cas.org/detail?cas_rn={cas}**')
 
-            canonize_mol = search_df['SMILES_Solute'].iloc[0]
+        canonize_mol = search_df['SMILES_Solute'].iloc[0]
+        col1result, col2result, col3result = st.columns([1, 1, 2])
+        col1result.markdown(f'**Molecule from BigSolDB 2.0**')
+        col2result.markdown(f'**Source**')
+        col3result.markdown(f'**Solubility**')
+        dois = list(search_df['Source'].unique())
+        for doi in dois:
             col1result, col2result, col3result = st.columns([1, 1, 2])
-            col1result.markdown(f'**Molecule from BigSolDB 2.0**')
-            col2result.markdown(f'**Source**')
-            col3result.markdown(f'**Solubility**')
-            dois = list(search_df['Source'].unique())
-            for doi in dois:
-                col1result, col2result, col3result = st.columns([1, 1, 2])
-                df_comp = search_df[(search_df['Source'] == doi) & (search_df['SMILES_Solute'] == canonize_mol)]
-                fig_line = px.line(df_comp, x="Temperature_K", y="Solubility(mole_fraction)", color="Solvent", title=f"Dependence of solubility on temperature", markers=True)
-                fig_line.update_layout(yaxis_title='Solubility (mole fraction)')
-                col1result.image(draw_molecule(canonize_mol), caption=canonize_mol)
-                col2result.markdown(f'**https://doi.org/{doi}**')
-                col3result.plotly_chart(fig_line)
-            st.dataframe(search_df)
+            df_comp = search_df[(search_df['Source'] == doi) & (search_df['SMILES_Solute'] == canonize_mol)]
+            fig_line = px.line(df_comp, x="Temperature_K", y="Solubility(mole_fraction)", color="Solvent", title=f"Dependence of solubility on temperature", markers=True)
+            fig_line.update_layout(yaxis_title='Solubility (mole fraction)')
+            col1result.image(draw_molecule(canonize_mol), caption=canonize_mol)
+            col2result.markdown(f'**https://doi.org/{doi}**')
+            col3result.plotly_chart(fig_line)
+        st.dataframe(search_df)
 
 with tabs[2]:
 
