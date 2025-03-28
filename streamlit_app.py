@@ -43,8 +43,6 @@ df_smiles['mol_ecfp'] = df_smiles['mol'].apply(lambda x: calc(x))
 
 solvents = df['Solvent'].value_counts().reset_index().loc[:50]
 
-top_solvents = df["Solvent"].value_counts().nlargest(10).index
-df_top_solvents = df[df["Solvent"].isin(top_solvents)]
 top_solvents_by_smiles = df.groupby("Solvent")["SMILES_Solute"].nunique().nlargest(50).reset_index()
 
 n_entries = df.shape[0]
@@ -93,12 +91,6 @@ with tabs[0]:
     fig_solv_smiles.update_layout(xaxis_title='Solvents')
     st.plotly_chart(fig_solv_smiles, use_container_width=True)
 
-    fig_hist = px.histogram(df_top_solvents, x="LogS(mol/L)", color="Solvent", nbins=30,
-                       opacity=0.6, barmode="overlay",
-                       title="Log10 Solubility (Mol/L) histograms for top 10 solvents")
-    fig_hist.update_layout(yaxis_title='Number of entries')
-    fig_hist.update_layout(xaxis_title='Log10 Solubility (Mol/L)')
-    st.plotly_chart(fig_hist, use_container_width=True)
 
 with tabs[1]:
     fda = st.checkbox("Only FDA Approved molecules")
