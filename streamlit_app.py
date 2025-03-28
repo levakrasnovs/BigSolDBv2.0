@@ -33,7 +33,7 @@ if "visibility" not in st.session_state:
 st.set_page_config(page_title='BigSolDBv2.0', layout="wide")
 
 df = pd.read_csv('BigSolDBv2.0.csv')
-df['PubChem CID'] = df['PubChem CID'].astype('Int64')
+df['PubChem_CID'] = df['PubChem_CID'].astype('Int64')
 compound_names = sorted(df['Compound_Name'].unique().tolist())
 
 df_smiles = pd.DataFrame({'SMILES_Solute': list(df['SMILES_Solute'].unique())})
