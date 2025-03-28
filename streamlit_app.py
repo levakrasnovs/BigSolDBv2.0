@@ -33,7 +33,7 @@ if "visibility" not in st.session_state:
 st.set_page_config(page_title='BigSolDBv2.0', layout="wide")
 
 df = pd.read_csv('BigSolDBv2.0.csv')
-compound_names = df['Compound_Name'].tolist()
+compound_names = sorted(df['Compound_Name'].unique().tolist())
 
 df_smiles = pd.DataFrame({'SMILES_Solute': list(df['SMILES_Solute'].unique())})
 df_smiles['mol'] = df_smiles['SMILES_Solute'].apply(Chem.MolFromSmiles)
