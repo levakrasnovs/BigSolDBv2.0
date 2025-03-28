@@ -99,7 +99,7 @@ with tabs[0]:
 
 with tabs[1]:
 
-    selected = st.selectbox("Choose moecule", compound_names)
+    selected = st.selectbox(label="Choose moecule", options=compound_names, placeholder='Paracetamol')
     search_df = df[(df['Compound_Name'] == selected)]
     canonize_mol = search_df['SMILES_Solute'].iloc[0]
 
@@ -117,6 +117,7 @@ with tabs[1]:
         col1result.image(draw_molecule(canonize_mol), caption=canonize_mol)
         col2result.markdown(f'**https://doi.org/{doi}**')
         col3result.plotly_chart(fig_line)
+
 with tabs[2]:
 
     st.markdown("""Draw your molecule to get SMILES and search in the database:""")
@@ -137,7 +138,7 @@ with tabs[2]:
             if (mol is not None):
                 if check_mol(mol):
                     canonize_mol = Chem.MolToSmiles(mol)
-                    search_df = df[(df['SMILES'] == canonize_mol)]
+                    search_df = df[(df['SMILES_Solute'] == canonize_mol)]
                     if search_df.shape[0] == 0:
                         st.markdown(f'### This compound was not found in BigSolDB 2.0, but similar was found instead:')
                         col1result, col2result, col3result, col4result = st.columns([1, 1, 1, 3])
