@@ -101,6 +101,8 @@ with tabs[1]:
 
     selected = st.selectbox("Choose moecule", compound_names)
     search_df = df[(df['Compound_Name'] == selected)]
+    canonize_mol = search_df['SMILES_Solute'].iloc[0]
+    
     st.markdown(f'### This compound was found in BigSolDB 2.0:')
     col1result, col2result, col3result = st.columns([1, 1, 2])
     col1result.markdown(f'**Molecule from BigSolDB 2.0**')
