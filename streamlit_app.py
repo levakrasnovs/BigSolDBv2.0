@@ -8,6 +8,9 @@ from rdkit.Chem import Draw
 from streamlit_ketcher import st_ketcher
 from molfeat.calc import FPCalculator
 
+from rdkit import RDLogger
+RDLogger.DisableLog('rdApp.*')
+
 def hamming_distance(fp1, fp2):
     return np.sum(fp1 != fp2)
 
