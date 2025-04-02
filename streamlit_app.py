@@ -225,7 +225,7 @@ with tabs[3]:
             df_comp = search_df[(search_df['Source'] == doi) & (search_df['SMILES_Solute'] == canonize_mol)]
             fig_line = px.line(df_comp, x="Temperature_K", y="Solubility(mole_fraction)", color="Solvent", title=f"Dependence of solubility on temperature", markers=True)
             fig_line.update_layout(yaxis_title='Solubility (mole fraction)')
-            col1result.image(draw_molecule(canonize_mol), caption=canonize_mol)
+            col1result.image(draw_molecule(canonize_mol), caption=f'{canonize_mol}\n{selected}')
             col2result.markdown(f'**https://doi.org/{doi}**')
             col3result.plotly_chart(fig_line)
         st.dataframe(search_df)
