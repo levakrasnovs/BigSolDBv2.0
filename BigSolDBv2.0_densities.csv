@@ -1,0 +1,2211 @@
+Solvent,Temperature_K,Density_g/cm^3,Source
+ethanol,293.15,0.78975,10.1016/j.jct.2007.05.004
+ethanol,298.15,0.78546,10.1016/j.jct.2007.05.004
+ethanol,303.15,0.78115,10.1016/j.jct.2007.05.004
+ethanol,303.15,0.781,10.1016/j.molliq.2023.121923
+ethanol,308.15,0.7767,10.1016/j.molliq.2023.121923
+ethanol,313.15,0.7723,10.1016/j.molliq.2023.121923
+ethanol,318.15,0.7679,10.1016/j.molliq.2023.121923
+ethanol,323.15,0.7634,10.1016/j.molliq.2023.121923
+ethanol,293.15,0.78975,10.1021/je0342825
+ethanol,298.15,0.78546,10.1021/je0342825
+ethanol,303.15,0.78115,10.1021/je0342825
+ethanol,293.15,0.7897,10.1021/je050416y
+ethanol,298.15,0.7853,10.1021/je050416y
+ethanol,303.15,0.7809,10.1021/je050416y
+ethanol,308.15,0.7765,10.1021/je050416y
+ethanol,313.15,0.7722,10.1021/je050416y
+ethanol,283.15,0.7976,10.1016/j.jct.2009.06.023
+ethanol,288.15,0.7933,10.1016/j.jct.2009.06.023
+ethanol,293.15,0.789,10.1016/j.jct.2009.06.023
+ethanol,298.15,0.7855,10.1016/j.jct.2009.06.023
+ethanol,303.15,0.7803,10.1016/j.jct.2009.06.023
+ethanol,308.15,0.776,10.1016/j.jct.2009.06.023
+ethanol,313.15,0.772,10.1016/j.jct.2009.06.023
+ethanol,318.15,0.7674,10.1016/j.jct.2009.06.023
+ethanol,323.15,0.763,10.1016/j.jct.2009.06.023
+ethanol,328.15,0.7586,10.1016/j.jct.2009.06.023
+ethanol,333.15,0.7544,10.1016/j.jct.2009.06.023
+Methanol,283.15,0.80037,"NIST Chemistry WebBook, SRD 69"
+Methanol,284.15,0.79943,"NIST Chemistry WebBook, SRD 69"
+Methanol,285.15,0.79850,"NIST Chemistry WebBook, SRD 69"
+Methanol,286.15,0.79756,"NIST Chemistry WebBook, SRD 69"
+Methanol,287.15,0.79663,"NIST Chemistry WebBook, SRD 69"
+Methanol,288.15,0.79569,"NIST Chemistry WebBook, SRD 69"
+Methanol,289.15,0.79476,"NIST Chemistry WebBook, SRD 69"
+Methanol,290.15,0.79382,"NIST Chemistry WebBook, SRD 69"
+Methanol,291.15,0.79288,"NIST Chemistry WebBook, SRD 69"
+Methanol,292.15,0.79195,"NIST Chemistry WebBook, SRD 69"
+Methanol,293.15,0.79101,"NIST Chemistry WebBook, SRD 69"
+Methanol,294.15,0.79008,"NIST Chemistry WebBook, SRD 69"
+Methanol,295.15,0.78914,"NIST Chemistry WebBook, SRD 69"
+Methanol,296.15,0.78820,"NIST Chemistry WebBook, SRD 69"
+Methanol,297.15,0.78726,"NIST Chemistry WebBook, SRD 69"
+Methanol,298.15,0.78633,"NIST Chemistry WebBook, SRD 69"
+Methanol,299.15,0.78539,"NIST Chemistry WebBook, SRD 69"
+Methanol,300.15,0.78445,"NIST Chemistry WebBook, SRD 69"
+Methanol,301.15,0.78351,"NIST Chemistry WebBook, SRD 69"
+Methanol,302.15,0.78257,"NIST Chemistry WebBook, SRD 69"
+Methanol,303.15,0.78163,"NIST Chemistry WebBook, SRD 69"
+Methanol,304.15,0.78069,"NIST Chemistry WebBook, SRD 69"
+Methanol,305.15,0.77974,"NIST Chemistry WebBook, SRD 69"
+Methanol,306.15,0.77880,"NIST Chemistry WebBook, SRD 69"
+Methanol,307.15,0.77786,"NIST Chemistry WebBook, SRD 69"
+Methanol,308.15,0.77691,"NIST Chemistry WebBook, SRD 69"
+Methanol,309.15,0.77596,"NIST Chemistry WebBook, SRD 69"
+Methanol,310.15,0.77502,"NIST Chemistry WebBook, SRD 69"
+Methanol,311.15,0.77407,"NIST Chemistry WebBook, SRD 69"
+Methanol,312.15,0.77312,"NIST Chemistry WebBook, SRD 69"
+Methanol,313.15,0.77217,"NIST Chemistry WebBook, SRD 69"
+Methanol,314.15,0.77122,"NIST Chemistry WebBook, SRD 69"
+Methanol,315.15,0.77026,"NIST Chemistry WebBook, SRD 69"
+Methanol,316.15,0.76931,"NIST Chemistry WebBook, SRD 69"
+Methanol,317.15,0.76835,"NIST Chemistry WebBook, SRD 69"
+Methanol,318.15,0.76739,"NIST Chemistry WebBook, SRD 69"
+Methanol,319.15,0.76644,"NIST Chemistry WebBook, SRD 69"
+Methanol,320.15,0.76547,"NIST Chemistry WebBook, SRD 69"
+Methanol,321.15,0.76451,"NIST Chemistry WebBook, SRD 69"
+Methanol,322.15,0.76355,"NIST Chemistry WebBook, SRD 69"
+Methanol,323.15,0.76258,"NIST Chemistry WebBook, SRD 69"
+Methanol,324.15,0.76161,"NIST Chemistry WebBook, SRD 69"
+Methanol,325.15,0.76065,"NIST Chemistry WebBook, SRD 69"
+Methanol,326.15,0.75967,"NIST Chemistry WebBook, SRD 69"
+Methanol,327.15,0.75870,"NIST Chemistry WebBook, SRD 69"
+Methanol,328.15,0.75772,"NIST Chemistry WebBook, SRD 69"
+Toluene,283.15,0.87617,"NIST Chemistry WebBook, SRD 69"
+Toluene,284.15,0.87524,"NIST Chemistry WebBook, SRD 69"
+Toluene,285.15,0.87432,"NIST Chemistry WebBook, SRD 69"
+Toluene,286.15,0.87339,"NIST Chemistry WebBook, SRD 69"
+Toluene,287.15,0.87246,"NIST Chemistry WebBook, SRD 69"
+Toluene,288.15,0.87153,"NIST Chemistry WebBook, SRD 69"
+Toluene,289.15,0.87061,"NIST Chemistry WebBook, SRD 69"
+Toluene,290.15,0.86968,"NIST Chemistry WebBook, SRD 69"
+Toluene,291.15,0.86875,"NIST Chemistry WebBook, SRD 69"
+Toluene,292.15,0.86782,"NIST Chemistry WebBook, SRD 69"
+Toluene,293.15,0.86689,"NIST Chemistry WebBook, SRD 69"
+Toluene,294.15,0.86596,"NIST Chemistry WebBook, SRD 69"
+Toluene,295.15,0.86503,"NIST Chemistry WebBook, SRD 69"
+Toluene,296.15,0.86410,"NIST Chemistry WebBook, SRD 69"
+Toluene,297.15,0.86317,"NIST Chemistry WebBook, SRD 69"
+Toluene,298.15,0.86224,"NIST Chemistry WebBook, SRD 69"
+Toluene,299.15,0.86131,"NIST Chemistry WebBook, SRD 69"
+Toluene,300.15,0.86037,"NIST Chemistry WebBook, SRD 69"
+Toluene,301.15,0.85944,"NIST Chemistry WebBook, SRD 69"
+Toluene,302.15,0.85851,"NIST Chemistry WebBook, SRD 69"
+Toluene,303.15,0.85757,"NIST Chemistry WebBook, SRD 69"
+Toluene,304.15,0.85664,"NIST Chemistry WebBook, SRD 69"
+Toluene,305.15,0.85570,"NIST Chemistry WebBook, SRD 69"
+Toluene,306.15,0.85477,"NIST Chemistry WebBook, SRD 69"
+Toluene,307.15,0.85383,"NIST Chemistry WebBook, SRD 69"
+Toluene,308.15,0.85289,"NIST Chemistry WebBook, SRD 69"
+Toluene,309.15,0.85196,"NIST Chemistry WebBook, SRD 69"
+Toluene,310.15,0.85102,"NIST Chemistry WebBook, SRD 69"
+Toluene,311.15,0.85008,"NIST Chemistry WebBook, SRD 69"
+Toluene,312.15,0.84914,"NIST Chemistry WebBook, SRD 69"
+Toluene,313.15,0.84820,"NIST Chemistry WebBook, SRD 69"
+Toluene,314.15,0.84726,"NIST Chemistry WebBook, SRD 69"
+Toluene,315.15,0.84632,"NIST Chemistry WebBook, SRD 69"
+Toluene,316.15,0.84537,"NIST Chemistry WebBook, SRD 69"
+Toluene,317.15,0.84443,"NIST Chemistry WebBook, SRD 69"
+Toluene,318.15,0.84349,"NIST Chemistry WebBook, SRD 69"
+Toluene,319.15,0.84254,"NIST Chemistry WebBook, SRD 69"
+Toluene,320.15,0.84160,"NIST Chemistry WebBook, SRD 69"
+Toluene,321.15,0.84065,"NIST Chemistry WebBook, SRD 69"
+Toluene,322.15,0.83970,"NIST Chemistry WebBook, SRD 69"
+Toluene,323.15,0.83876,"NIST Chemistry WebBook, SRD 69"
+Toluene,324.15,0.83781,"NIST Chemistry WebBook, SRD 69"
+Toluene,325.15,0.83686,"NIST Chemistry WebBook, SRD 69"
+Toluene,326.15,0.83591,"NIST Chemistry WebBook, SRD 69"
+Toluene,327.15,0.83496,"NIST Chemistry WebBook, SRD 69"
+Toluene,328.15,0.83400,"NIST Chemistry WebBook, SRD 69"
+Benzene,283.15,0.88938,"NIST Chemistry WebBook, SRD 69"
+Benzene,284.15,0.88834,"NIST Chemistry WebBook, SRD 69"
+Benzene,285.15,0.88729,"NIST Chemistry WebBook, SRD 69"
+Benzene,286.15,0.88625,"NIST Chemistry WebBook, SRD 69"
+Benzene,287.15,0.88520,"NIST Chemistry WebBook, SRD 69"
+Benzene,288.15,0.88416,"NIST Chemistry WebBook, SRD 69"
+Benzene,289.15,0.88311,"NIST Chemistry WebBook, SRD 69"
+Benzene,290.15,0.88206,"NIST Chemistry WebBook, SRD 69"
+Benzene,291.15,0.88101,"NIST Chemistry WebBook, SRD 69"
+Benzene,292.15,0.87997,"NIST Chemistry WebBook, SRD 69"
+Benzene,293.15,0.87892,"NIST Chemistry WebBook, SRD 69"
+Benzene,294.15,0.87787,"NIST Chemistry WebBook, SRD 69"
+Benzene,295.15,0.87682,"NIST Chemistry WebBook, SRD 69"
+Benzene,296.15,0.87577,"NIST Chemistry WebBook, SRD 69"
+Benzene,297.15,0.87471,"NIST Chemistry WebBook, SRD 69"
+Benzene,298.15,0.87366,"NIST Chemistry WebBook, SRD 69"
+Benzene,299.15,0.87261,"NIST Chemistry WebBook, SRD 69"
+Benzene,300.15,0.87155,"NIST Chemistry WebBook, SRD 69"
+Benzene,301.15,0.87050,"NIST Chemistry WebBook, SRD 69"
+Benzene,302.15,0.86944,"NIST Chemistry WebBook, SRD 69"
+Benzene,303.15,0.86838,"NIST Chemistry WebBook, SRD 69"
+Benzene,304.15,0.86733,"NIST Chemistry WebBook, SRD 69"
+Benzene,305.15,0.86627,"NIST Chemistry WebBook, SRD 69"
+Benzene,306.15,0.86521,"NIST Chemistry WebBook, SRD 69"
+Benzene,307.15,0.86415,"NIST Chemistry WebBook, SRD 69"
+Benzene,308.15,0.86309,"NIST Chemistry WebBook, SRD 69"
+Benzene,309.15,0.86202,"NIST Chemistry WebBook, SRD 69"
+Benzene,310.15,0.86096,"NIST Chemistry WebBook, SRD 69"
+Benzene,311.15,0.85989,"NIST Chemistry WebBook, SRD 69"
+Benzene,312.15,0.85883,"NIST Chemistry WebBook, SRD 69"
+Benzene,313.15,0.85776,"NIST Chemistry WebBook, SRD 69"
+Benzene,314.15,0.85669,"NIST Chemistry WebBook, SRD 69"
+Benzene,315.15,0.85562,"NIST Chemistry WebBook, SRD 69"
+Benzene,316.15,0.85455,"NIST Chemistry WebBook, SRD 69"
+Benzene,317.15,0.85348,"NIST Chemistry WebBook, SRD 69"
+Benzene,318.15,0.85241,"NIST Chemistry WebBook, SRD 69"
+Benzene,319.15,0.85134,"NIST Chemistry WebBook, SRD 69"
+Benzene,320.15,0.85026,"NIST Chemistry WebBook, SRD 69"
+Benzene,321.15,0.84919,"NIST Chemistry WebBook, SRD 69"
+Benzene,322.15,0.84811,"NIST Chemistry WebBook, SRD 69"
+Benzene,323.15,0.84703,"NIST Chemistry WebBook, SRD 69"
+Benzene,324.15,0.84595,"NIST Chemistry WebBook, SRD 69"
+Benzene,325.15,0.84487,"NIST Chemistry WebBook, SRD 69"
+Benzene,326.15,0.84379,"NIST Chemistry WebBook, SRD 69"
+Benzene,327.15,0.84270,"NIST Chemistry WebBook, SRD 69"
+Benzene,328.15,0.84162,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,283.15,0.69227,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,284.15,0.69143,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,285.15,0.69059,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,286.15,0.68975,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,287.15,0.68891,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,288.15,0.68807,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,289.15,0.68722,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,290.15,0.68638,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,291.15,0.68554,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,292.15,0.68469,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,293.15,0.68385,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,294.15,0.68300,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,295.15,0.68215,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,296.15,0.68131,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,297.15,0.68046,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,298.15,0.67961,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,299.15,0.67876,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,300.15,0.67791,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,301.15,0.67705,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,302.15,0.67620,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,303.15,0.67535,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,304.15,0.67449,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,305.15,0.67363,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,306.15,0.67278,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,307.15,0.67192,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,308.15,0.67106,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,309.15,0.67020,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,310.15,0.66934,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,311.15,0.66847,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,312.15,0.66761,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,313.15,0.66675,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,314.15,0.66588,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,315.15,0.66501,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,316.15,0.66414,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,317.15,0.66327,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,318.15,0.66240,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,319.15,0.66153,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,320.15,0.66066,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,321.15,0.65978,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,322.15,0.65891,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,323.15,0.65803,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,324.15,0.65715,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,325.15,0.65627,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,326.15,0.65539,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,327.15,0.65451,"NIST Chemistry WebBook, SRD 69"
+n-Heptane,328.15,0.65362,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,283.15,0.66835,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,284.15,0.66746,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,285.15,0.66656,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,286.15,0.66567,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,287.15,0.66478,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,288.15,0.66388,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,289.15,0.66298,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,290.15,0.66209,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,291.15,0.66119,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,292.15,0.66029,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,293.15,0.65938,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,294.15,0.65848,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,295.15,0.65758,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,296.15,0.65667,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,297.15,0.65576,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,298.15,0.65485,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,299.15,0.65394,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,300.15,0.65303,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,301.15,0.65212,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,302.15,0.65120,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,303.15,0.65029,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,304.15,0.64937,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,305.15,0.64845,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,306.15,0.64753,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,307.15,0.64661,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,308.15,0.64568,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,309.15,0.64476,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,310.15,0.64383,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,311.15,0.64290,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,312.15,0.64197,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,313.15,0.64103,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,314.15,0.64010,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,315.15,0.63916,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,316.15,0.63822,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,317.15,0.63728,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,318.15,0.63634,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,319.15,0.63540,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,320.15,0.63445,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,321.15,0.63350,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,322.15,0.63255,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,323.15,0.63160,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,324.15,0.63065,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,325.15,0.62969,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,326.15,0.62873,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,327.15,0.62777,"NIST Chemistry WebBook, SRD 69"
+n-Hexane,328.15,0.62681,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,283.15,0.78803,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,284.15,0.78710,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,285.15,0.78617,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,286.15,0.78524,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,287.15,0.78430,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,288.15,0.78337,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,289.15,0.78243,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,290.15,0.78149,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,291.15,0.78056,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,292.15,0.77962,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,293.15,0.77868,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,294.15,0.77774,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,295.15,0.77680,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,296.15,0.77585,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,297.15,0.77491,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,298.15,0.77397,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,299.15,0.77302,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,300.15,0.77208,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,301.15,0.77113,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,302.15,0.77018,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,303.15,0.76923,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,304.15,0.76828,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,305.15,0.76733,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,306.15,0.76638,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,307.15,0.76543,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,308.15,0.76447,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,309.15,0.76352,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,310.15,0.76256,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,311.15,0.76160,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,312.15,0.76064,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,313.15,0.75968,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,314.15,0.75872,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,315.15,0.75776,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,316.15,0.75680,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,317.15,0.75583,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,318.15,0.75487,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,319.15,0.75390,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,320.15,0.75293,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,321.15,0.75196,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,322.15,0.75099,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,323.15,0.75002,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,324.15,0.74905,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,325.15,0.74807,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,326.15,0.74710,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,327.15,0.74612,"NIST Chemistry WebBook, SRD 69"
+Cyclohexane,328.15,0.74514,"NIST Chemistry WebBook, SRD 69"
+n-pentane,283.15,0.63600,"NIST Chemistry WebBook, SRD 69"
+n-pentane,284.15,0.63503,"NIST Chemistry WebBook, SRD 69"
+n-pentane,285.15,0.63405,"NIST Chemistry WebBook, SRD 69"
+n-pentane,286.15,0.63308,"NIST Chemistry WebBook, SRD 69"
+n-pentane,287.15,0.63210,"NIST Chemistry WebBook, SRD 69"
+n-pentane,288.15,0.63112,"NIST Chemistry WebBook, SRD 69"
+n-pentane,289.15,0.63014,"NIST Chemistry WebBook, SRD 69"
+n-pentane,290.15,0.62916,"NIST Chemistry WebBook, SRD 69"
+n-pentane,291.15,0.62817,"NIST Chemistry WebBook, SRD 69"
+n-pentane,292.15,0.62718,"NIST Chemistry WebBook, SRD 69"
+n-pentane,293.15,0.62619,"NIST Chemistry WebBook, SRD 69"
+n-pentane,294.15,0.62520,"NIST Chemistry WebBook, SRD 69"
+n-pentane,295.15,0.62421,"NIST Chemistry WebBook, SRD 69"
+n-pentane,296.15,0.62321,"NIST Chemistry WebBook, SRD 69"
+n-pentane,297.15,0.62221,"NIST Chemistry WebBook, SRD 69"
+n-pentane,298.15,0.62121,"NIST Chemistry WebBook, SRD 69"
+n-pentane,299.15,0.62021,"NIST Chemistry WebBook, SRD 69"
+n-pentane,300.15,0.61920,"NIST Chemistry WebBook, SRD 69"
+n-pentane,301.15,0.61819,"NIST Chemistry WebBook, SRD 69"
+n-pentane,302.15,0.61718,"NIST Chemistry WebBook, SRD 69"
+n-pentane,303.15,0.61617,"NIST Chemistry WebBook, SRD 69"
+n-pentane,304.15,0.61515,"NIST Chemistry WebBook, SRD 69"
+n-pentane,305.15,0.61413,"NIST Chemistry WebBook, SRD 69"
+n-pentane,306.15,0.61311,"NIST Chemistry WebBook, SRD 69"
+n-pentane,307.15,0.61209,"NIST Chemistry WebBook, SRD 69"
+n-pentane,308.15,0.61106,"NIST Chemistry WebBook, SRD 69"
+n-pentane,309.15,0.61003,"NIST Chemistry WebBook, SRD 69"
+n-Octane,283.15,0.71063,"NIST Chemistry WebBook, SRD 69"
+n-Octane,284.15,0.70983,"NIST Chemistry WebBook, SRD 69"
+n-Octane,285.15,0.70903,"NIST Chemistry WebBook, SRD 69"
+n-Octane,286.15,0.70823,"NIST Chemistry WebBook, SRD 69"
+n-Octane,287.15,0.70743,"NIST Chemistry WebBook, SRD 69"
+n-Octane,288.15,0.70663,"NIST Chemistry WebBook, SRD 69"
+n-Octane,289.15,0.70583,"NIST Chemistry WebBook, SRD 69"
+n-Octane,290.15,0.70502,"NIST Chemistry WebBook, SRD 69"
+n-Octane,291.15,0.70422,"NIST Chemistry WebBook, SRD 69"
+n-Octane,292.15,0.70341,"NIST Chemistry WebBook, SRD 69"
+n-Octane,293.15,0.70261,"NIST Chemistry WebBook, SRD 69"
+n-Octane,294.15,0.70180,"NIST Chemistry WebBook, SRD 69"
+n-Octane,295.15,0.70100,"NIST Chemistry WebBook, SRD 69"
+n-Octane,296.15,0.70019,"NIST Chemistry WebBook, SRD 69"
+n-Octane,297.15,0.69938,"NIST Chemistry WebBook, SRD 69"
+n-Octane,298.15,0.69857,"NIST Chemistry WebBook, SRD 69"
+n-Octane,299.15,0.69776,"NIST Chemistry WebBook, SRD 69"
+n-Octane,300.15,0.69695,"NIST Chemistry WebBook, SRD 69"
+n-Octane,301.15,0.69614,"NIST Chemistry WebBook, SRD 69"
+n-Octane,302.15,0.69533,"NIST Chemistry WebBook, SRD 69"
+n-Octane,303.15,0.69452,"NIST Chemistry WebBook, SRD 69"
+n-Octane,304.15,0.69371,"NIST Chemistry WebBook, SRD 69"
+n-Octane,305.15,0.69289,"NIST Chemistry WebBook, SRD 69"
+n-Octane,306.15,0.69208,"NIST Chemistry WebBook, SRD 69"
+n-Octane,307.15,0.69126,"NIST Chemistry WebBook, SRD 69"
+n-Octane,308.15,0.69045,"NIST Chemistry WebBook, SRD 69"
+n-Octane,309.15,0.68963,"NIST Chemistry WebBook, SRD 69"
+n-Octane,310.15,0.68881,"NIST Chemistry WebBook, SRD 69"
+n-Octane,311.15,0.68800,"NIST Chemistry WebBook, SRD 69"
+n-Octane,312.15,0.68718,"NIST Chemistry WebBook, SRD 69"
+n-Octane,313.15,0.68636,"NIST Chemistry WebBook, SRD 69"
+n-Octane,314.15,0.68553,"NIST Chemistry WebBook, SRD 69"
+n-Octane,315.15,0.68471,"NIST Chemistry WebBook, SRD 69"
+n-Octane,316.15,0.68389,"NIST Chemistry WebBook, SRD 69"
+n-Octane,317.15,0.68307,"NIST Chemistry WebBook, SRD 69"
+n-Octane,318.15,0.68224,"NIST Chemistry WebBook, SRD 69"
+n-Octane,319.15,0.68142,"NIST Chemistry WebBook, SRD 69"
+n-Octane,320.15,0.68059,"NIST Chemistry WebBook, SRD 69"
+n-Octane,321.15,0.67976,"NIST Chemistry WebBook, SRD 69"
+n-Octane,322.15,0.67893,"NIST Chemistry WebBook, SRD 69"
+n-Octane,323.15,0.67810,"NIST Chemistry WebBook, SRD 69"
+n-Octane,324.15,0.67727,"NIST Chemistry WebBook, SRD 69"
+n-Octane,325.15,0.67644,"NIST Chemistry WebBook, SRD 69"
+n-Octane,326.15,0.67561,"NIST Chemistry WebBook, SRD 69"
+n-Octane,327.15,0.67477,"NIST Chemistry WebBook, SRD 69"
+n-Octane,328.15,0.67394,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,283.15,0.75687,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,284.15,0.75613,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,285.15,0.75538,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,286.15,0.75464,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,287.15,0.75389,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,288.15,0.75315,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,289.15,0.75241,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,290.15,0.75166,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,291.15,0.75092,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,292.15,0.75018,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,293.15,0.74944,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,294.15,0.74870,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,295.15,0.74795,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,296.15,0.74721,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,297.15,0.74647,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,298.15,0.74573,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,299.15,0.74499,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,300.15,0.74425,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,301.15,0.74351,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,302.15,0.74277,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,303.15,0.74203,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,304.15,0.74129,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,305.15,0.74055,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,306.15,0.73981,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,307.15,0.73907,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,308.15,0.73834,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,309.15,0.73760,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,310.15,0.73686,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,311.15,0.73612,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,312.15,0.73538,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,313.15,0.73464,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,314.15,0.73390,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,315.15,0.73317,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,316.15,0.73243,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,317.15,0.73169,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,318.15,0.73095,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,319.15,0.73021,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,320.15,0.72947,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,321.15,0.72873,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,322.15,0.72800,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,323.15,0.72726,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,324.15,0.72652,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,325.15,0.72578,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,326.15,0.72504,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,327.15,0.72430,"NIST Chemistry WebBook, SRD 69"
+n-Dodecane,328.15,0.72356,"NIST Chemistry WebBook, SRD 69"
+isopropanol,303.15,0.7770,"TRC Data Bases for Chemistry and Engineering-TRC Thermodynamic Tables, Version 1.1; Thermodynamic Research Center, The Texas A&M University System: College Station, TX, 1994. The Texas A&M University System: College Station, TX, 1994."
+isopropanol,313.15,0.7683,"TRC Data Bases for Chemistry and Engineering-TRC Thermodynamic Tables, Version 1.1; Thermodynamic Research Center, The Texas A&M University System: College Station, TX, 1994. The Texas A&M University System: College Station, TX, 1994."
+isopropanol,323.15,0.7593,"TRC Data Bases for Chemistry and Engineering-TRC Thermodynamic Tables, Version 1.1; Thermodynamic Research Center, The Texas A&M University System: College Station, TX, 1994. The Texas A&M University System: College Station, TX, 1994."
+isopropanol,303.15,0.7768,10.1021/jp109851k
+isopropanol,313.15,0.7680,10.1021/jp109851k
+isopropanol,323.15,0.7593,10.1021/jp109851k
+isopropanol,298.15,0.7810,10.1021/je400630f
+isopropanol,298.15,0.780856,10.1021/je100818t
+isopropanol,298.15,0.78136,10.1016/j.molliq.2006.02.007
+isopropanol,303.15,0.77709,10.1016/j.molliq.2006.02.007
+isopropanol,308.15,0.77275,10.1016/j.molliq.2006.02.007
+n-butanol,283.15,0.8173,10.1021/je400630f
+n-butanol,293.15,0.8096,10.1021/je400630f
+n-butanol,298.15,0.8058,10.1021/je400630f
+n-butanol,303.15,0.8021,10.1021/je400630f
+n-butanol,313.15,0.7943,10.1021/je400630f
+n-butanol,293.15,0.809660,10.1021/je100818t
+n-butanol,298.15,0.805845,10.1021/je100818t
+n-butanol,303.15,0.802004,10.1021/je100818t
+n-butanol,313.15,0.794222,10.1021/je100818t
+n-butanol,313.15,0.7947,10.1021/je980104d
+n-pentanol,283.15,0.8220,10.1021/je400630f
+n-pentanol,293.15,0.8147,10.1021/je400630f
+n-pentanol,298.15,0.8112,10.1021/je400630f
+n-pentanol,303.15,0.8075,10.1021/je400630f
+n-pentanol,313.15,0.8000,10.1021/je400630f
+n-pentanol,283.15,0.82195,10.1021/je301095j
+n-pentanol,293.15,0.81460,10.1021/je301095j
+n-pentanol,293.15,0.81463,10.1021/je1013476
+n-pentanol,298.15,0.81092,10.1016/j.molliq.2006.02.007
+n-pentanol,298.15,0.81096,10.1021/je1013476
+n-pentanol,303.15,0.80725,10.1021/je301095j
+n-pentanol,303.15,0.807,10.1021/je1013476
+n-pentanol,313.15,0.7999,10.1021/je301095j
+n-propanol,298.15,0.79996,10.1016/j.molliq.2006.02.007
+n-propanol,303.15,0.79593,10.1016/j.molliq.2006.02.007
+n-propanol,308.15,0.79186,10.1016/j.molliq.2006.02.007
+n-propanol,303.15,0.7956,10.1021/je049685z
+n-propanol,313.15,0.7876,10.1021/je049685z
+n-propanol,323.15,0.7791,10.1021/je049685z
+n-propanol,333.15,0.7706,10.1021/je049685z
+n-propanol,288.15,0.807494,10.1021/je100818t
+n-propanol,293.15,0.803516,10.1021/je100818t
+n-propanol,298.15,0.799506,10.1021/je100818t
+n-propanol,303.15,0.795476,10.1021/je100818t
+n-propanol,308.15,0.791406,10.1021/je100818t
+n-propanol,313.15,0.787296,10.1021/je100818t
+n-propanol,298.15,0.7993,10.1016/j.jct.2008.06.013
+n-propanol,308.15,0.7913,10.1016/j.jct.2008.06.013
+n-propanol,318.15,0.7833,10.1016/j.jct.2008.06.013
+n-heptanol,283.15,0.8296,10.1021/je400630f
+n-heptanol,293.15,0.8226,10.1021/je400630f
+n-heptanol,298.15,0.8191,10.1021/je400630f
+n-heptanol,303.15,0.8156,10.1021/je400630f
+n-heptanol,313.15,0.8084,10.1021/je400630f
+n-heptanol,303.15,0.8153,10.1021/je980104d
+n-heptanol,313.15,0.8082,10.1021/je980104d
+n-heptanol,323.15,0.7994,10.1021/je980104d
+n-heptanol,293.15,0.8223,10.1021/je980177x
+n-heptanol,298.15,0.8187 ,10.1021/je980177x
+n-heptanol,308.15,0.8117,10.1016/S0378-3812(97)00267-7
+n-heptanol,313.15, 0.8083,10.1016/S0378-3812(97)00267-7
+n-octanol,283.15,0.8321,10.1021/je400630f
+n-octanol,293.15,0.8252,10.1021/je400630f
+n-octanol,298.15,0.8219,10.1021/je400630f
+n-octanol,303.15,0.8184,10.1021/je400630f
+n-octanol,313.15,0.8114,10.1021/je400630f
+n-octanol,293.15,0.8253,10.1021/je980177x
+n-octanol,298.15,0.8218,10.1021/je980177x
+n-octanol,303.15,0.8181,10.1021/je980104d
+n-octanol,313.15, 0.8111,10.1021/je980104d
+n-octanol,323.15,0.8023,10.1021/je980104d
+n-octanol, 303.15, 0.8181,10.1021/je9700636
+n-octanol,313.15, 0.8112,10.1021/je9700636
+n-octanol,323.15,0.8038,10.1021/je9700636
+n-nonanol,283.15,0.8350,10.1021/je400630f
+n-nonanol,293.15,0.8281,10.1021/je400630f
+n-nonanol,298.15,0.8247,10.1021/je400630f
+n-nonanol,303.15,0.8213,10.1021/je400630f
+n-nonanol,313.15,0.8143,10.1021/je400630f
+n-nonanol,293.15,0.8279,10.1021/je980177x
+n-nonanol,298.15, 0.8244,10.1021/je980177x
+n-nonanol,308.15,0.8176,10.1016/S0378-3812(97)00267-7
+n-nonanol,313.15,0.8143,10.1016/S0378-3812(97)00267-7
+n-nonanol,293.15, 0.82797,10.1016/j.fluid.2003.12.007
+n-nonanol,298.15,0.82457,10.1016/j.fluid.2003.12.007
+n-nonanol,308.15,0.81832,10.1016/j.fluid.2003.12.007
+n-nonanol,318.15,0.80898,10.1016/j.fluid.2003.12.007
+n-decanol,283.15,0.8366,10.1021/je400630f
+n-decanol,293.15,0.8299,10.1021/je400630f
+n-decanol,298.15,0.8265,10.1021/je400630f
+n-decanol,303.15,0.8230,10.1021/je400630f
+n-decanol,313.15,0.8162,10.1021/je400630f
+n-decanol,293.15,0.83028,10.1016/j.fluid.2003.12.007
+n-decanol,298.15, 0.82698,10.1016/j.fluid.2003.12.007
+n-decanol,308.15, 0.81984,10.1016/j.fluid.2003.12.007
+n-decanol,318.15,0.81135,10.1016/j.fluid.2003.12.007
+anisole,303.15,0.9843,10.1021/je980104d
+anisole,313.15,0.9749,10.1021/je980104d
+anisole,323.15, 0.9635,10.1021/je980104d
+anisole,298.15,0.9889,10.1021/je049610v
+anisole,303.15,0.9841,10.1021/je049610v
+anisole,308.15,0.9794,10.1021/je049610v
+anisole,303.15,0.9844,10.1016/j.jct.2019.04.018
+anisole,308.15,0.9798,10.1016/j.jct.2019.04.018
+anisole,313.15, 0.9750 ,10.1016/j.jct.2019.04.018
+ethyl acetate,293.15,0.900443,10.1021/acs.jced.5b00009
+ethyl acetate,298.15,0.894374,10.1021/acs.jced.5b00009
+ethyl acetate,303.15,0.888256,10.1021/acs.jced.5b00009
+ethyl acetate,308.15,0.882093,10.1021/acs.jced.5b00009
+ethyl acetate,313.15,0.875884,10.1021/acs.jced.5b00009
+ethyl acetate,318.15,0.869621,10.1021/acs.jced.5b00009
+ethyl acetate,323.15,0.863303,10.1021/acs.jced.5b00009
+ethyl acetate,293.15,0.90052,10.1016/j.jct.2007.05.004
+ethyl acetate,298.15,0.89443,10.1016/j.jct.2007.05.004
+ethyl acetate,303.15,0.8883,10.1016/j.jct.2007.05.004
+ethyl acetate,278.15,0.9185,10.1021/je9005618
+ethyl acetate,288.15,0.90648,10.1021/je9005618
+ethyl acetate,298.15,0.89433,10.1021/je9005618
+ethyl acetate,308.15,0.88202,10.1021/je9005618
+ethyl acetate,318.15,0.86952,10.1021/je9005618
+ethyl acetate,328.15,0.85685,10.1021/je9005618
+ethyl acetate,298.15,0.8946,10.1021/je960090g
+ethyl acetate,303.15,0.8885,10.1021/je960090g
+ethyl acetate,308.15,0.8825,10.1021/je960090g
+n-butyl acetate,293.15,0.88104,10.1021/je050001c
+n-butyl acetate,298.15,0.87645,10.1021/je050001c
+n-butyl acetate,303.15,0.87130,10.1021/je050001c
+n-butyl acetate,308.15,0.86625,10.1021/je050001c
+n-butyl acetate,313.15,0.86184,10.1021/je050001c
+n-butyl acetate,318.15,0.85732,10.1021/je050001c
+n-butyl acetate,298.15,0.8748,10.1021/je300085z
+n-butyl acetate,303.15,0.8702,10.1021/je300085z
+n-butyl acetate,308.15,0.8659,10.1021/je300085z
+n-butyl acetate,313.15,0.8609,10.1021/je300085z
+n-propyl acetate,298.15,0.8831,10.1021/je980218p
+n-propyl acetate,303.15,0.8774,10.1021/je980218p
+n-propyl acetate,308.15,0.8718,10.1021/je980218p
+n-propyl acetate,313.15,0.86570 ,10.1016/j.jct.2013.02.022
+n-propyl acetate,298.15,0.8824,10.1021/je9800454
+n-propyl acetate,303.15,0.8767,10.1021/je9800454
+n-propyl acetate,308.15,0.8713,10.1021/je9800454
+n-propyl acetate,298.15,0.88261,10.1021/ie302343v
+acetic acid,293.15,1.04975,10.1016/j.molliq.2014.09.055
+acetic acid,298.15,1.04413,10.1016/j.molliq.2014.09.055
+acetic acid,303.15,1.03848,10.1016/j.molliq.2014.09.055
+acetic acid,308.15,1.03283,10.1016/j.molliq.2014.09.055
+acetic acid,313.15,1.02718,10.1016/j.molliq.2014.09.055
+acetic acid,293.15,1.04930,10.1021/je0342825
+acetic acid,298.15,1.04365,10.1021/je0342825
+acetic acid,303.15,1.03800,10.1021/je0342825
+ethyl formate,303.15,0.9083,10.1021/je700150e
+ethyl formate,308.15,0.9015,10.1021/je700150e
+ethyl formate,313.15,0.8948,10.1021/je700150e
+ethyl formate,298.15,0.91598,10.1021/je0003290
+ethyl formate,303.15,0.9078,10.1134/s0036024414120061
+ethyl formate,293.15,0.92080,10.1021/je970225y
+ethyl formate,303.15,0.90760,10.1021/je970225y
+ethyl formate,313.15,0.89360,10.1021/je970225y
+ethyl formate,323.15,0.8839,10.1021/je970225y
+propionic acid,293.15,0.99333,10.1016/j.jct.2012.07.019
+propionic acid,298.15,0.98794,10.1016/j.jct.2012.07.019
+propionic acid,303.15,0.98254,10.1016/j.jct.2012.07.019
+propionic acid,308.15,0.97714,10.1016/j.jct.2012.07.019
+propionic acid,313.15,0.97175,10.1016/j.jct.2012.07.019
+propionic acid,293.15,0.99388,10.1016/j.jct.2012.07.019
+propionic acid,298.15,0.98848,10.1016/j.jct.2012.07.019
+propionic acid,303.15,0.98307,10.1016/j.jct.2012.07.019
+propionic acid,308.15,0.97767,10.1016/j.jct.2012.07.019
+propionic acid,313.15,0.97227,10.1016/j.jct.2012.07.019
+propionic acid,293.15,0.9939,10.1016/j.jct.2014.06.004
+propionic acid,298.15,0.9885,10.1016/j.jct.2014.06.004
+propionic acid,303.15,0.9831,10.1016/j.jct.2014.06.004
+propionic acid,308.15,0.9777,10.1016/j.jct.2014.06.004
+propionic acid,313.15,0.9723,10.1016/j.jct.2014.06.004
+n-butyric acid,293.15,0.9578,10.1016/j.jct.2012.07.019
+n-butyric acid,298.15,0.9528,10.1016/j.jct.2012.07.019
+n-butyric acid,303.15,0.9479,10.1016/j.jct.2012.07.019
+n-butyric acid,308.15,0.9429,10.1016/j.jct.2012.07.019
+n-butyric acid,313.15,0.9381,10.1016/j.jct.2012.07.019
+n-butyric acid,293.15, 0.9576,10.1021/je970005k
+n-butyric acid, 298.15,0.9528,10.1021/je970005k
+n-butyric acid, 303.15,0.9479,10.1021/je970005k
+n-butyric acid, 308.15,0.9429,10.1021/je970005k
+n-butyric acid,313.15,0.9379,10.1021/je970005k
+n-butyric acid,318.15,0.9329,10.1021/je970005k
+n-butyric acid, 323.15 , 0.9279,10.1021/je970005k
+"1,4-dioxane",298.15,1.02792,10.1021/je400659p
+"1,4-dioxane",303.15,1.02227,10.1021/je400659p
+"1,4-dioxane",313.15,1.01091,10.1021/je400659p
+"1,4-dioxane",323.15,0.99949,10.1021/je400659p
+"1,4-dioxane",283.15,1.04691,10.1021/je800136t
+"1,4-dioxane",293.15,1.03503,10.1021/je800136t
+"1,4-dioxane",303.15,1.02271,10.1021/je800136t
+"1,4-dioxane",313.15,1.01132,10.1021/je800136t
+"1,4-dioxane",323.15,0.99912,10.1021/je800136t
+"1,4-dioxane",333.15,0.98792,10.1021/je800136t
+"1,4-dioxane",343.15,0.97661,10.1021/je800136t
+"1,4-dioxane",293.15,1.03364,10.1071/CH9921109
+"1,4-dioxane",303.15,1.02255,10.1071/CH9921109
+"1,4-dioxane",313.15,1.01129,10.1071/CH9921109
+"1,4-dioxane",323.15,0.999838,10.1071/CH9921109
+"1,4-dioxane",333.15,0.988249,10.1071/CH9921109
+"1,4-dioxane",343.15,0.976726,10.1071/CH9921109
+Methyl Acetate,278.15,0.95304,10.1021/je9005618
+Methyl Acetate,288.15,0.94012,10.1021/je9005618
+Methyl Acetate,298.15,0.92701,10.1021/je9005618
+Methyl Acetate,308.15,0.91368,10.1021/je9005618
+Methyl Acetate,318.15,0.90013,10.1021/je9005618
+Methyl Acetate,293.15,0.93356,10.1016/j.jct.2007.05.004
+Methyl Acetate,298.15,0.92698,10.1016/j.jct.2007.05.004
+Methyl Acetate, 303.15,0.92034,10.1016/j.jct.2007.05.004
+Methyl Acetate,298.15,0.9285,10.1021/je980218p
+Methyl Acetate,303.15,0.9218,10.1021/je980218p
+Methyl Acetate,308.15,0.9152,10.1021/je980218p
+acetone,278.15,0.80741,10.1021/je9005618
+acetone,288.15,0.79614,10.1021/je9005618
+acetone,298.15,0.78476,10.1021/je9005618
+acetone,308.15,0.77321,10.1021/je9005618
+acetone,318.15,0.76147,10.1021/je9005618
+acetone,298.15,0.78437,10.1021/je0497000
+acetone,298.15,0.78547,10.1021/je050010l
+acetone,308.15,0.77391,10.1021/je050010l
+acetone,293.15,0.7901,10.1021/je60069a011
+acetone,298.15,0.7844,10.1021/je60069a011
+acetone,308.15,0.773,10.1021/je60069a011
+acetone,318.15,0.7613,10.1021/je60069a011
+acetone,288.15,0.7966,10.1021/je020077y
+acetone,298.15,0.7852,10.1021/je020077y
+acetone,308.15,0.7736,10.1021/je020077y
+acetonitrile,293.15,0.782308,10.1016/j.molliq.2015.06.041
+acetonitrile,298.15,0.776921,10.1016/j.molliq.2015.06.041
+acetonitrile,303.15,0.771487,10.1016/j.molliq.2015.06.041
+acetonitrile,308.15,0.766031,10.1016/j.molliq.2015.06.041
+acetonitrile,313.15,0.760541,10.1016/j.molliq.2015.06.041
+acetonitrile,318.15,0.755014,10.1016/j.molliq.2015.06.041
+acetonitrile,323.15,0.749449,10.1016/j.molliq.2015.06.041
+acetonitrile,328.15,0.743844,10.1016/j.molliq.2015.06.041
+acetonitrile,333.15,0.738212,10.1016/j.molliq.2015.06.041
+acetonitrile,298.15,0.77693,10.1021/je700266n
+acetonitrile,303.15,0.77144,10.1021/je700266n
+acetonitrile,308.15,0.76597,10.1021/je700266n
+acetonitrile,313.15,0.76068,10.1021/je700266n
+acetonitrile,298.15,0.77653,10.1021/je050165t
+acetonitrile,303.15,0.77112,10.1021/je050165t
+acetonitrile,308.15,0.76566,10.1021/je050165t
+acetonitrile,313.15,0.76016,10.1021/je050165t
+acetonitrile,318.15,0.754462,10.1021/je050165t
+gamma-butyrolactone,293.15,1.128699,10.1016/j.molliq.2015.06.041
+gamma-butyrolactone,298.15,1.123791,10.1016/j.molliq.2015.06.041
+gamma-butyrolactone,303.15,1.118877,10.1016/j.molliq.2015.06.041
+gamma-butyrolactone,308.15,1.113962,10.1016/j.molliq.2015.06.041
+gamma-butyrolactone,313.15,1.109045,10.1016/j.molliq.2015.06.041
+gamma-butyrolactone,318.15,1.104128,10.1016/j.molliq.2015.06.041
+gamma-butyrolactone,323.15,1.099205,10.1016/j.molliq.2015.06.041
+gamma-butyrolactone,328.15,1.094272,10.1016/j.molliq.2015.06.041
+gamma-butyrolactone,333.15,1.089342,10.1016/j.molliq.2015.06.041
+gamma-butyrolactone,293.15,1.1286,10.1021/je990226l
+gamma-butyrolactone,298.15,1.1239,10.1021/je990226l
+gamma-butyrolactone,303.15,1.1188,10.1021/je990226l
+gamma-butyrolactone,308.15,1.1139,10.1021/je990226l
+gamma-butyrolactone,313.15,1.1091,10.1021/je990226l
+gamma-butyrolactone,323.15,1.0994,10.1021/je990226l
+gamma-butyrolactone,333.15,1.0894,10.1021/je990226l
+dimethyl carbonate,293.15,1.069834,10.1016/j.molliq.2015.06.041
+dimethyl carbonate,298.15,1.063247,10.1016/j.molliq.2015.06.041
+dimethyl carbonate,303.15,1.056632,10.1016/j.molliq.2015.06.041
+dimethyl carbonate,308.15,1.049983,10.1016/j.molliq.2015.06.041
+dimethyl carbonate,313.15,1.043307,10.1016/j.molliq.2015.06.041
+dimethyl carbonate,318.15,1.036590,10.1016/j.molliq.2015.06.041
+dimethyl carbonate,323.15,1.029843,10.1016/j.molliq.2015.06.041
+dimethyl carbonate,328.15,1.023050,10.1016/j.molliq.2015.06.041
+dimethyl carbonate,333.15,1.016214,10.1016/j.molliq.2015.06.041
+dimethyl carbonate,293.15,1.06954,10.1021/je049777o
+dimethyl carbonate,298.15,1.06295,10.1021/je049777o
+dimethyl carbonate,303.15,1.05635,10.1021/je049777o
+dimethyl carbonate,313.15,1.04301,10.1021/je049777o
+dimethyl carbonate,323.15,1.02959,10.1021/je049777o
+dimethyl carbonate,333.15,1.01600,10.1021/je049777o
+dimethyl carbonate,343.15,1.00232,10.1021/je049777o
+thf,293.15,0.887074,10.1016/j.molliq.2015.06.041
+thf,298.15,0.881611,10.1016/j.molliq.2015.06.041
+thf,303.15,0.876111,10.1016/j.molliq.2015.06.041
+thf,308.15,0.870589,10.1016/j.molliq.2015.06.041
+thf,313.15,0.865023,10.1016/j.molliq.2015.06.041
+thf,318.15,0.859414,10.1016/j.molliq.2015.06.041
+thf,323.15,0.853769,10.1016/j.molliq.2015.06.041
+thf,288.15,0.893293,10.1016/j.fluid.2014.04.002
+thf,293.15,0.887865,10.1016/j.fluid.2014.04.002
+thf,298.15, 0.882403,10.1016/j.fluid.2014.04.002
+thf,303.15,0.876911,10.1016/j.fluid.2014.04.002
+thf,308.15,0.871384,10.1016/j.fluid.2014.04.002
+thf,313.15,0.865820,10.1016/j.fluid.2014.04.002
+thf,318.15,0.860213,10.1016/j.fluid.2014.04.002
+thf,323.15,0.854558,10.1016/j.fluid.2014.04.002
+dmf,303.15,0.9387,10.1016/j.molliq.2016.03.072
+dmf,313.15,0.9291,10.1016/j.molliq.2016.03.072
+dmf,323.15,0.9195,10.1016/j.molliq.2016.03.072
+dmf,298.15,0.9445,10.1021/je00020a026
+dmf,303.15,0.93923,10.1021/acs.jced.5b00753
+dmf,313.15,0.92964,10.1021/acs.jced.5b00753
+dmf,323.15,0.92002,10.1021/acs.jced.5b00753
+dmf,333.15,0.91033,10.1021/acs.jced.5b00753
+dmf,303.15,0.93900,10.1021/je060301+
+dmf,313.15,0.92942,10.1021/je060301+
+dmf,323.15,0.91979,10.1021/je060301+
+dmf,333.15,0.91010,10.1021/je060301+
+dmso,303.15,1.09041,10.1021/acs.jced.5b00753
+dmso,313.15,1.08037,10.1021/acs.jced.5b00753
+dmso,323.15,1.07033,10.1021/acs.jced.5b00753
+dmso,333.15,1.06029,10.1021/acs.jced.5b00753
+dmso,303.15,1.09073,10.1021/je300316a
+dmso,313.15,1.08069,10.1021/je300316a
+dmso,323.15,1.07066,10.1021/je300316a
+dmso,333.15,1.06063,10.1021/je300316a
+dmso,293.15,1.10053,10.1021/je990271t
+dmso,303.15,1.09049,10.1021/je990271t
+dmso,313.15,1.08032,10.1021/je990271t
+dmac,303.15,0.93169,10.1021/acs.jced.5b00753
+dmac,313.15,0.92244,10.1021/acs.jced.5b00753
+dmac,323.15,0.91317,10.1021/acs.jced.5b00753
+dmac,333.15,0.90386,10.1021/acs.jced.5b00753
+dmac,303.15,0.93158,10.1021/je060301+
+dmac,313.15,0.92233,10.1021/je060301+
+dmac,323.15,0.91305,10.1021/je060301+
+dmac,333.15,0.90374,10.1021/je060301+
+dmac,303.15,0.93168,10.1007/s10953-014-0273-1
+dmac,313.15, 0.92244,10.1007/s10953-014-0273-1
+dmac,323.15, 0.91316,10.1007/s10953-014-0273-1
+dmac,333.15, 0.90375,10.1007/s10953-014-0273-1
+isobutanol,288.15,0.80588,10.1021/acs.jced.6b00640
+isobutanol,293.15,0.80203,10.1021/acs.jced.6b00640
+isobutanol,298.15,0.79816,10.1021/acs.jced.6b00640
+isobutanol,303.15,0.79425,10.1021/acs.jced.6b00640
+isobutanol,308.15,0.79031,10.1021/acs.jced.6b00640
+isobutanol,313.15,0.78631,10.1021/acs.jced.6b00640
+isobutanol,318.15,0.78226,10.1021/acs.jced.6b00640
+isobutanol,323.15,0.77814,10.1021/acs.jced.6b00640
+isobutanol,288.15,0.80568,10.1016/S0378-3812(00)00300-9
+isobutanol,298.15,0.79742,10.1016/S0378-3812(00)00300-9
+isobutanol,308.15,0.79029,10.1016/S0378-3812(00)00300-9
+isobutanol,318.15,0.78220,10.1016/S0378-3812(00)00300-9
+isobutanol,298.15,0.79808,10.1021/je010249b
+2-Butanone,288.15,0.81001,10.1016/S0378-3812(00)00300-9
+2-Butanone,298.15,0.79961,10.1016/S0378-3812(00)00300-9
+2-Butanone,303.15,0.79438,10.1016/S0378-3812(00)00300-9
+2-Butanone,308.15,0.78918,10.1016/S0378-3812(00)00300-9
+2-Butanone,313.15,0.78375,10.1016/S0378-3812(00)00300-9
+2-Butanone,318.15,0.77837,10.1016/S0378-3812(00)00300-9
+2-Butanone,278.15,0.820633,10.1023/a:1021463705444
+2-Butanone,283.15,0.815472,10.1023/a:1021463705444
+2-Butanone,288.15,0.810305,10.1023/a:1021463705444
+2-Butanone,293.15,0.805129,10.1023/a:1021463705444
+2-Butanone,298.15,0.799891,10.1023/a:1021463705444
+2-Butanone,303.15,0.794672,10.1023/a:1021463705444
+2-Butanone,308.15,0.789402,10.1023/a:1021463705444
+2-Butanone,313.15,0.784122,10.1023/a:1021463705444
+2-Butanone,318.15,0.778826,10.1023/a:1021463705444
+2-Butanone,323.15,0.773531,10.1023/a:1021463705444
+2-Butanone,328.15,0.768202,10.1023/a:1021463705444
+2-Butanone,333.15,0.762849,10.1023/a:1021463705444
+sec-Butanol,288.15,0.81044,10.1016/S0378-3812(00)00300-9
+sec-Butanol,298.15,0.80206,10.1016/S0378-3812(00)00300-9
+sec-Butanol,308.15,0.79398,10.1016/S0378-3812(00)00300-9
+sec-Butanol,318.15,0.7850,10.1016/S0378-3812(00)00300-9
+sec-Butanol,293.15,0.8062,10.1021/acs.jced.8b01097
+sec-Butanol,298.15,0.8020,10.1021/acs.jced.8b01097
+sec-Butanol,303.15,0.7979,10.1021/acs.jced.8b01097
+sec-Butanol,308.15,0.7936,10.1021/acs.jced.8b01097
+sec-Butanol,313.15,0.7892,10.1021/acs.jced.8b01097
+sec-Butanol,318.15,0.7847,10.1021/acs.jced.8b01097
+sec-Butanol,323.15,0.7802,10.1021/acs.jced.8b01097
+sec-Butanol,288.15,0.810524,10.1021/je401036f
+sec-Butanol,293.15,0.806487,10.1021/je401036f
+sec-Butanol,298.15,0.802373,10.1021/je401036f
+sec-Butanol,303.15,0.798174,10.1021/je401036f
+sec-Butanol,308.15,0.793881,10.1021/je401036f
+sec-Butanol,313.15,0.789487,10.1021/je401036f
+sec-Butanol,318.15,0.784988,10.1021/je401036f
+sec-Butanol,323.15,0.780380,10.1021/je401036f
+sec-Butanol,328.15,0.775656,10.1021/je401036f
+sec-Butanol,333.15,0.770820,10.1021/je401036f
+m-xylene,293.15,0.8640,10.1016/j.molliq.2012.10.021
+m-xylene,303.15,0.8550,10.1016/j.molliq.2012.10.021
+m-xylene,313.15,0.8460,10.1016/j.molliq.2012.10.021
+m-xylene,323.15,0.8380,10.1016/j.molliq.2012.10.021
+m-xylene,293.15,0.86431,10.1016/j.molliq.2007.06.007
+m-xylene,303.15,0.85564,10.1016/j.molliq.2007.06.007
+m-xylene,313.15,0.8469,10.1016/j.molliq.2007.06.007
+m-xylene,323.15,0.83809,10.1016/j.molliq.2007.06.007
+m-xylene,333.15,0.82922,10.1016/j.molliq.2007.06.007
+m-xylene,343.15,0.82029,10.1016/j.molliq.2007.06.007
+o-xylene,293.15,0.8794,10.1016/j.molliq.2012.10.021
+o-xylene,303.15, 0.8711,10.1016/j.molliq.2012.10.021
+o-xylene,313.15,0.8626,10.1016/j.molliq.2012.10.021
+o-xylene,323.15,0.8541,10.1016/j.molliq.2012.10.021
+o-xylene,293.15,0.87984,10.1016/j.molliq.2007.06.007
+o-xylene,303.15,0.87148,10.1016/j.molliq.2007.06.007
+o-xylene,313.15,0.86303,10.1016/j.molliq.2007.06.007
+o-xylene,323.15,0.85451,10.1016/j.molliq.2007.06.007
+o-xylene,333.15,0.84591,10.1016/j.molliq.2007.06.007
+o-xylene,343.15,0.83723,10.1016/j.molliq.2007.06.007
+p-xylene,293.15,0.8605,10.1016/j.molliq.2012.10.021
+p-xylene,303.15,0.8518,10.1016/j.molliq.2012.10.021
+p-xylene,313.15,0.8430,10.1016/j.molliq.2012.10.021
+p-xylene,323.15,0.8342,10.1016/j.molliq.2012.10.021
+p-xylene,293.15,0.86095,10.1016/j.molliq.2007.06.007
+p-xylene,303.15,0.8523,10.1016/j.molliq.2007.06.007
+p-xylene,313.15,0.84357,10.1016/j.molliq.2007.06.007
+p-xylene,323.15,0.83476,10.1016/j.molliq.2007.06.007
+p-xylene,333.15,0.82586,10.1016/j.molliq.2007.06.007
+p-xylene,343.15,0.81687,10.1016/j.molliq.2007.06.007
+propylene glycol,293.15,1.03654,10.1002/bscb.19750841112
+propylene glycol,298.15,1.03287,10.1002/bscb.19750841112
+propylene glycol,303.15,1.02912,10.1002/bscb.19750841112
+propylene glycol,308.15,1.02585,10.1002/bscb.19750841112
+propylene glycol,313.15,1.02192,10.1002/bscb.19750841112
+propylene glycol,318.15,1.0184,10.1002/bscb.19750841112
+propylene glycol,293.15,1.0368,10.1016/j.molliq.2018.08.023
+propylene glycol,298.15,1.0331,10.1016/j.molliq.2018.08.023
+propylene glycol,303.15,1.0291,10.1016/j.molliq.2018.08.023
+propylene glycol,308.15,1.0253,10.1016/j.molliq.2018.08.023
+propylene glycol,313.15,1.0224,10.1016/j.molliq.2018.08.023
+propylene glycol,318.15,1.0173,10.1016/j.molliq.2018.08.023
+propylene glycol,298.15,1.03256,10.1016/j.fluid.2017.07.006
+propylene glycol,303.15,1.02887,10.1016/j.fluid.2017.07.006
+propylene glycol,312.98,1.02216,10.1016/j.fluid.2017.07.006
+propylene glycol,335.78,1.00531,10.1016/j.fluid.2017.07.006
+ethylene glycol,298.15,1.1098,10.1016/j.molliq.2015.04.001
+ethylene glycol,303.15,1.1063,10.1016/j.molliq.2015.04.001
+ethylene glycol,308.15,1.1027,10.1016/j.molliq.2015.04.001
+ethylene glycol,313.15,1.0992,10.1016/j.molliq.2015.04.001
+ethylene glycol,318.15,1.0956,10.1016/j.molliq.2015.04.001
+ethylene glycol,323.15,1.0921,10.1016/j.molliq.2015.04.001
+ethylene glycol,273.16,1.12716,10.1021/je800694a
+ethylene glycol,278.15,1.12371,10.1021/je800694a
+ethylene glycol,283.15,1.12023,10.1021/je800694a
+ethylene glycol,288.15,1.11676,10.1021/je800694a
+ethylene glycol,293.15,1.11327,10.1021/je800694a
+ethylene glycol,298.15,1.10977,10.1021/je800694a
+ethylene glycol,303.15,1.10625,10.1021/je800694a
+ethylene glycol,308.15,1.10272,10.1021/je800694a
+ethylene glycol,313.15,1.09917,10.1021/je800694a
+ethylene glycol,318.15,1.09561,10.1021/je800694a
+ethylene glycol,323.15,1.09202,10.1021/je800694a
+ethylene glycol,328.14,1.08841,10.1021/je800694a
+ethylene glycol,333.15,1.08478,10.1021/je800694a
+ethylene glycol,338.15,1.08111,10.1021/je800694a
+nmp,293.15,1.0336,10.1021/je200121f
+nmp,303.15, 1.0247,10.1021/je200121f
+nmp,313.15,1.0157,10.1021/je200121f
+nmp,323.15, 1.0068,10.1021/je200121f
+nmp,293.15,1.0336,10.1016/j.jct.2013.01.020
+nmp,303.15, 1.0247,10.1016/j.jct.2013.01.020
+nmp,313.15,1.0157,10.1016/j.jct.2013.01.020
+nmp,323.15, 1.0068,10.1016/j.jct.2013.01.020
+nmp,293.15,1.03287,10.1021/je100967k
+nmp,303.15,1.02395,10.1021/je100967k
+nmp,313.15,1.01503,10.1021/je100967k
+nmp,323.15,1.00610,10.1021/je100967k
+nmp,293.151,1.03225,10.1021/acs.jced.5b00474
+nmp,298.149,1.027794,10.1021/acs.jced.5b00474
+nmp,303.154,1.023332,10.1021/acs.jced.5b00474
+nmp,308.155,1.018871,10.1021/acs.jced.5b00474
+nmp,313.155,1.01441,10.1021/acs.jced.5b00474
+nmp,318.155,1.009948,10.1021/acs.jced.5b00474
+nmp,323.157,1.005483,10.1021/acs.jced.5b00474
+chloroform,273.15,1.526,10.1021/je100821g
+chloroform,283.15,1.5071,10.1021/je100821g
+chloroform,293.15,1.4884,10.1021/je100821g
+chloroform,298.15,1.4788,10.1021/je100821g
+chloroform,303.15,1.4692,10.1021/je100821g
+chloroform,313.15,1.4500,10.1021/je100821g
+chloroform,318.15,1.4400,10.1021/je100821g
+chloroform,298.15,1.4788,10.1021/je980031y
+chloroform,303.15,1.4692,10.1021/je980031y
+chloroform,308.15,1.4594,10.1021/je980031y
+chloroform,283.15,1.5073,10.1021/je060150a
+chloroform,293.15,1.4884,10.1021/je060150a
+chloroform,303.15,1.4694,10.1021/je060150a
+chloroform,313.15,1.4500,10.1021/je060150a
+ethylbenzene,293.15,0.86695,10.1021/je500498m
+ethylbenzene,303.15,0.85815,10.1021/je500498m
+ethylbenzene,313.15,0.84929,10.1021/je500498m
+ethylbenzene,323.15,0.84038,10.1021/je500498m
+ethylbenzene,333.15,0.8314,10.1021/je500498m
+ethylbenzene,343.15,0.8223,10.1021/je500498m
+ethylbenzene,293.15,0.8672,10.1021/je00060a030
+ethylbenzene,298.15,0.8620,10.1021/je00060a030
+ethylbenzene,308.15,0.8533,10.1021/je00060a030
+ethylbenzene,313.15,0.8495,10.1021/je00060a030
+ethylbenzene,303.15,0.8576,10.1007/s10953-010-9610-1
+ethylbenzene,313.15,0.8492,10.1007/s10953-010-9610-1
+isopropyl acetate,298.15,0.86622,10.1007/bf02705587
+isopropyl acetate,298.15,0.86647 ,10.1021/je00003a017
+isopropyl acetate,308.15,0.85415,10.1021/je00003a017
+isopropyl acetate,298.15,"0,86618",10.1021/je0100342
+isopropyl acetate,293.15,0.874,Handbook of organic solvent properties Ian M. Smallwood
+Dichloromethane,298.15,1.3163,10.1021/je980145+
+Dichloromethane,303.15,1.3064,10.1021/je980145+
+Dichloromethane,308.15,1.2972,10.1021/je980145+
+Dichloromethane,270,1.36799,10.1016/j.jct.2010.08.001
+Dichloromethane,281,1.34876,10.1016/j.jct.2010.08.001
+Dichloromethane,290,1.33185,10.1016/j.jct.2010.08.001
+Dichloromethane,293.15,1.32635,10.1016/j.jct.2010.08.001
+Dichloromethane,298.15,1.31678,10.1016/j.jct.2010.08.001
+Dichloromethane,310,1.29371,10.1016/j.jct.2010.08.001
+Dichloromethane,303.15,1.3076,10.1021/je020067x
+"1,2-dichloroethane",298.15,1.2455,10.1021/je00061a008
+"1,2-dichloroethane",303.15,1.2382,10.1021/je00061a008
+"1,2-dichloroethane",308.15,1.2304,10.1021/je00061a008
+"1,2-dichloroethane",313.15,1.2234,10.1021/je00061a008
+"1,2-dichloroethane",303.15,1.2396,10.1080/00319109608039825
+"1,2-dichloroethane",313.15 ,1.2236 ,10.1080/00319109608039825
+"1,2-dichloroethane",323.15,1.2088,10.1080/00319109608039825
+"1,2-dichloroethane",293.15,1.2533,10.1134/s1070363212020065
+"1,2-dichloroethane",293.15,1.2519,10.1021/je900212d
+"1,2-dichloroethane",298.15,1.2474,10.1021/je900212d
+"1,2-dichloroethane",303.15,1.239,10.1021/je900212d
+"1,2-dichloroethane",308.15,1.2312,10.1021/je900212d
+"1,2-dichloroethane",313.15,1.222,10.1021/je900212d
+Cyclohexanone,298.15,0.9420,10.1021/je9802266
+Cyclohexanone,303.15,0.9374,10.1021/je9802266
+Cyclohexanone,308.15,0.9328 ,10.1021/je9802266
+Cyclohexanone,298.15,0.9425,10.1021/je0201828
+Cyclohexanone,303.15,0.9373,10.1021/je0201828
+Cyclohexanone,308.15,0.9323,10.1021/je0201828
+2-methoxyethanol,293.15,0.9647,10.1021/acs.jced.9b00364
+2-methoxyethanol,298.15,0.9602,10.1021/acs.jced.9b00364
+2-methoxyethanol,303.15,0.9555,10.1021/acs.jced.9b00364
+2-methoxyethanol,308.15,0.9509,10.1021/acs.jced.9b00364
+2-methoxyethanol,313.15,0.9462,10.1021/acs.jced.9b00364
+2-methoxyethanol,318.15,0.9415,10.1021/acs.jced.9b00364
+2-methoxyethanol,323.15,0.9368,10.1021/acs.jced.9b00364
+2-methoxyethanol,328.15,0.9320,10.1021/acs.jced.9b00364
+2-methoxyethanol,333.15,0.9272,10.1021/acs.jced.9b00364
+2-methoxyethanol,338.15,0.9224,10.1021/acs.jced.9b00364
+2-methoxyethanol,343.15,0.9175,10.1021/acs.jced.9b00364
+2-methoxyethanol,293.15,0.96486,10.1016/j.jct.2006.06.001
+2-methoxyethanol,303.15,0.95568,10.1016/j.jct.2006.06.001
+2-methoxyethanol,313.15,0.94638,10.1016/j.jct.2006.06.001
+2-methoxyethanol,323.15,0.93695,10.1016/j.jct.2006.06.001
+2-methoxyethanol,333.15,0.92738,10.1016/j.jct.2006.06.001
+2-methoxyethanol,343.15,0.91764,10.1016/j.jct.2006.06.001
+2-methoxyethanol,291.15,0.96652,10.1023/a:1014981921097
+2-methoxyethanol,293.15,0.96488,10.1023/a:1014981921097
+2-methoxyethanol,298.15,0.96029,10.1023/a:1014981921097
+2-methoxyethanol,303.15,0.95576,10.1023/a:1014981921097
+2-methoxyethanol,308.15,0.9511,10.1023/a:1014981921097
+2-methoxyethanol,298.15, 0.9595,10.1021/je100170v
+2-methoxyethanol,308.15,0.9521,10.1021/je100170v
+2-methoxyethanol,318.15,0.9458,10.1021/je100170v
+2-ethoxyethanol,293.15,0.9295,10.1021/acs.jced.9b00364
+2-ethoxyethanol,298.15,0.9250,10.1021/acs.jced.9b00364
+2-ethoxyethanol,303.15,0.9205,10.1021/acs.jced.9b00364
+2-ethoxyethanol,308.15,0.9159,10.1021/acs.jced.9b00364
+2-ethoxyethanol,313.15,0.9113,10.1021/acs.jced.9b00364
+2-ethoxyethanol,318.15,0.9066,10.1021/acs.jced.9b00364
+2-ethoxyethanol,323.15,0.9019,10.1021/acs.jced.9b00364
+2-ethoxyethanol,328.15,0.8972,10.1021/acs.jced.9b00364
+2-ethoxyethanol,333.15,0.8924,10.1021/acs.jced.9b00364
+2-ethoxyethanol,338.15,0.8876,10.1021/acs.jced.9b00364
+2-ethoxyethanol,343.15,0.8827,10.1021/acs.jced.9b00364
+2-ethoxyethanol,298.15,0.9256,10.1007/s10973-015-5205-9
+2-ethoxyethanol,308.15,0.916521,10.1007/s10973-015-5205-9
+2-ethoxyethanol,318.15,0.907318,10.1007/s10973-015-5205-9
+2-ethoxyethanol,328.15,0.898442,10.1007/s10973-015-5205-9
+2-ethoxyethanol,288.15,0.935030,10.1016/j.molliq.2011.08.008
+2-ethoxyethanol,293.15,0.930528,10.1016/j.molliq.2011.08.008
+2-ethoxyethanol,298.15,0.925999,10.1016/j.molliq.2011.08.008
+2-ethoxyethanol,303.15,0.921458,10.1016/j.molliq.2011.08.008
+2-ethoxyethanol,308.15,0.916868,10.1016/j.molliq.2011.08.008
+2-ethoxyethanol,313.15,0.912241,10.1016/j.molliq.2011.08.008
+2-ethoxyethanol,318.15,0.907588,10.1016/j.molliq.2011.08.008
+2-butoxyethanol,293.15,0.9004,10.1021/acs.jced.9b00364
+2-butoxyethanol,298.15,0.8962,10.1021/acs.jced.9b00364
+2-butoxyethanol,303.15,0.8920,10.1021/acs.jced.9b00364
+2-butoxyethanol,308.15,0.8878,10.1021/acs.jced.9b00364
+2-butoxyethanol,313.15,0.8835,10.1021/acs.jced.9b00364
+2-butoxyethanol,318.15,0.8792,10.1021/acs.jced.9b00364
+2-butoxyethanol,323.15,0.8749,10.1021/acs.jced.9b00364
+2-butoxyethanol,328.15,0.8706,10.1021/acs.jced.9b00364
+2-butoxyethanol,333.15,0.8662,10.1021/acs.jced.9b00364
+2-butoxyethanol,338.15,0.8618,10.1021/acs.jced.9b00364
+2-butoxyethanol,343.15,0.8573,10.1021/acs.jced.9b00364
+2-butoxyethanol,293.15,0.90118,10.1021/je900478c
+2-butoxyethanol,313.15,0.88421,10.1021/je900478c
+2-butoxyethanol,293.15,0.9006,10.1016/j.molliq.2020.113351
+2-butoxyethanol,298.15,0.8964,10.1016/j.molliq.2020.113351
+2-butoxyethanol,303.15,0.8922,10.1016/j.molliq.2020.113351
+2-butoxyethanol,308.15,0.8880,10.1016/j.molliq.2020.113351
+2-butoxyethanol,313.15,0.8837,10.1016/j.molliq.2020.113351
+2-butoxyethanol,318.15,0.8794,10.1016/j.molliq.2020.113351
+2-butoxyethanol,323.15,0.8751,10.1016/j.molliq.2020.113351
+2-butoxyethanol,328.15,0.8708,10.1016/j.molliq.2020.113351
+2-butoxyethanol,333.15,0.8664,10.1016/j.molliq.2020.113351
+2-butoxyethanol,338.15,0.8620,10.1016/j.molliq.2020.113351
+2-butoxyethanol,343.15,0.8575,10.1016/j.molliq.2020.113351
+2-propoxyethanol,298.15,0.90819,10.1080/00319104.2014.890898
+2-propoxyethanol,298.15,0.9074,10.1021/je60081a028
+2-propoxyethanol,298.15,0.90723,10.1016/j.fluid.2017.10.027
+2-propoxyethanol,288.15,0.915949,10.1016/j.jct.2016.07.002
+2-propoxyethanol,293.15,0.911592,10.1016/j.jct.2016.07.002
+2-propoxyethanol,298.15,0.907213,10.1016/j.jct.2016.07.002
+2-propoxyethanol,303.15,0.902807,10.1016/j.jct.2016.07.002
+2-propoxyethanol,308.15,0.898373,10.1016/j.jct.2016.07.002
+2-propoxyethanol,313.15,0.893908,10.1016/j.jct.2016.07.002
+2-propoxyethanol,318.15,0.889409,10.1016/j.jct.2016.07.002
+2-propoxyethanol,298.15,0.9080,10.1021/je0000120
+transcutol,293.15,0.987497,10.1021/acs.jced.9b00959
+transcutol,298.15,0.983059,10.1021/acs.jced.9b00959
+transcutol,303.15,0.978598,10.1021/acs.jced.9b00959
+transcutol,313.15,0.969649,10.1021/acs.jced.9b00959
+transcutol,323.15,0.960644,10.1021/acs.jced.9b00959
+transcutol,293.15,0.987876,10.1021/je700281z
+transcutol,298.15,0.983336,10.1021/je700281z
+transcutol,303.15,0.978788,10.1021/je700281z
+n-pentyl acetate,303.15,0.86644,10.1016/0378-3812(94)80121-5
+n-pentyl acetate,303.15,0.86470,10.1016/S0378-3812(02)00262-5
+n-pentyl acetate,283.15,0.88794,10.1080/00319100701790689
+n-pentyl acetate,288.15,0.88380,10.1080/00319100701790689
+n-pentyl acetate,298.15,0.87380,10.1080/00319100701790689
+n-pentyl acetate,303.15,0.87030,10.1080/00319100701790689
+n-pentyl acetate,298.15,0.8699,10.1021/acs.jced.4c00035
+n-pentyl acetate,303.15,0.8657,10.1021/acs.jced.4c00035
+n-pentyl acetate,308.15,0.8601,10.1021/acs.jced.4c00035
+n-pentyl acetate,298.15,0.87132,10.1016/j.molliq.2018.03.025
+n-pentyl acetate,303.15,0.865782,10.1016/j.molliq.2018.03.025
+n-pentyl acetate,308.15,0.860581,10.1016/j.molliq.2018.03.025
+mibk,283.15,0.8098,10.1016/j.jct.2006.07.004
+mibk,293.15,0.8007,10.1016/j.jct.2006.07.004
+mibk,303.15,0.7916,10.1016/j.jct.2006.07.004
+mibk,313.15,0.7822,10.1016/j.jct.2006.07.004
+mibk,293.15,0.8010,10.1139/v81-488
+mibk,298.15,0.7963,10.1139/v81-488
+mibk,303.15,0.7920,10.1139/v81-488
+mibk,308.15,0.7868,10.1139/v81-488
+n-hexanol,293.15,0.8189,10.1021/je501133u
+n-hexanol,298.15,0.8153,10.1021/je501133u
+n-hexanol,303.15,0.8117,10.1021/je501133u
+n-hexanol,308.15,0.8081,10.1021/je501133u
+n-hexanol,313.15,0.8045,10.1021/je501133u
+n-hexanol,318.15,0.8008,10.1021/je501133u
+n-hexanol,323.15,0.7971,10.1021/je501133u
+n-hexanol,328.15,0.7934,10.1021/je501133u
+n-hexanol,288.15,0.82228,10.1021/je060179e
+n-hexanol,293.15,0.81875,10.1021/je060179e
+n-hexanol,298.15,0.81523,10.1021/je060179e
+n-hexanol,303.15,0.81160,10.1021/je060179e
+n-hexanol,308.15,0.80800,10.1021/je060179e
+n-hexanol,288.15 ,0.82233,10.1021/je00016a066
+n-hexanol,298.15,0.81505,10.1021/je00016a066
+n-hexanol,308.15,0.80800,10.1021/je00016a066
+isopentanol,298.15,0.805,10.1016/j.jct.2022.106815
+isopentanol,303.15,0.801,10.1016/j.jct.2022.106815
+isopentanol,308.15,0.797,10.1016/j.jct.2022.106815
+isopentanol,313.15,0.793,10.1016/j.jct.2022.106815
+isopentanol,293.15,0.8083,10.1021/je050416y
+isopentanol,298.15,0.8046,10.1021/je050416y
+isopentanol,303.15,0.8008,10.1021/je050416y
+isopentanol,308.15,0.7971,10.1021/je050416y
+isopentanol,313.15,0.7932,10.1021/je050416y
+isopentanol,318.15,0.7895,10.1021/je050416y
+isopentanol,323.15,0.7857,10.1021/je050416y
+isopentanol,288.15,0.81229,10.1021/je5005752
+isopentanol,293.15,0.80858,10.1021/je5005752
+isopentanol,298.15,0.80484,10.1021/je5005752
+isopentanol,303.15,0.80109,10.1021/je5005752
+isopentanol,308.15,0.79731,10.1021/je5005752
+isopentanol,313.15,0.79351,10.1021/je5005752
+isopentanol,318.15,0.78967,10.1021/je5005752
+isopentanol,323.15,0.78579,10.1021/je5005752
+Isobutyl acetate,303.15 ,0.8627,10.1007/s10953-011-9652-z
+Isobutyl acetate,313.15 ,0.8515,10.1007/s10953-011-9652-z
+Isobutyl acetate,298.15,0.86612,10.1016/j.fluid.2005.03.014
+Isobutyl acetate,298.15,0.8676,10.1021/acs.jced.2c00404
+Isobutyl acetate,303.15,0.8624,10.1021/acs.jced.2c00404
+Isobutyl acetate,308.15,0.8560,10.1021/acs.jced.2c00404
+Water,273.65,0.99987,"NIST Chemistry WebBook, SRD 69"
+Water,273.75,0.99988,"NIST Chemistry WebBook, SRD 69"
+Water,273.85,0.99989,"NIST Chemistry WebBook, SRD 69"
+Water,273.95,0.99989,"NIST Chemistry WebBook, SRD 69"
+Water,274.05,0.9999,"NIST Chemistry WebBook, SRD 69"
+Water,274.15,0.9999,"NIST Chemistry WebBook, SRD 69"
+Water,274.25,0.99991,"NIST Chemistry WebBook, SRD 69"
+Water,274.35,0.99991,"NIST Chemistry WebBook, SRD 69"
+Water,274.45,0.99992,"NIST Chemistry WebBook, SRD 69"
+Water,274.55,0.99992,"NIST Chemistry WebBook, SRD 69"
+Water,274.65,0.99992,"NIST Chemistry WebBook, SRD 69"
+Water,274.75,0.99993,"NIST Chemistry WebBook, SRD 69"
+Water,274.85,0.99993,"NIST Chemistry WebBook, SRD 69"
+Water,274.95,0.99994,"NIST Chemistry WebBook, SRD 69"
+Water,275.05,0.99994,"NIST Chemistry WebBook, SRD 69"
+Water,275.15,0.99994,"NIST Chemistry WebBook, SRD 69"
+Water,275.25,0.99995,"NIST Chemistry WebBook, SRD 69"
+Water,275.35,0.99995,"NIST Chemistry WebBook, SRD 69"
+Water,275.45,0.99995,"NIST Chemistry WebBook, SRD 69"
+Water,275.55,0.99995,"NIST Chemistry WebBook, SRD 69"
+Water,275.65,0.99996,"NIST Chemistry WebBook, SRD 69"
+Water,275.75,0.99996,"NIST Chemistry WebBook, SRD 69"
+Water,275.85,0.99996,"NIST Chemistry WebBook, SRD 69"
+Water,275.95,0.99996,"NIST Chemistry WebBook, SRD 69"
+Water,276.05,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,276.15,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,276.25,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,276.35,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,276.45,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,276.55,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,276.65,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,276.75,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,276.85,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,276.95,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.05,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.15,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.25,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.35,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.45,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.55,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.65,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.75,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.85,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,277.95,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,278.05,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,278.15,0.99997,"NIST Chemistry WebBook, SRD 69"
+Water,278.25,0.99996,"NIST Chemistry WebBook, SRD 69"
+Water,278.35,0.99996,"NIST Chemistry WebBook, SRD 69"
+Water,278.45,0.99996,"NIST Chemistry WebBook, SRD 69"
+Water,278.55,0.99996,"NIST Chemistry WebBook, SRD 69"
+Water,278.65,0.99996,"NIST Chemistry WebBook, SRD 69"
+Water,278.75,0.99995,"NIST Chemistry WebBook, SRD 69"
+Water,278.85,0.99995,"NIST Chemistry WebBook, SRD 69"
+Water,278.95,0.99995,"NIST Chemistry WebBook, SRD 69"
+Water,279.05,0.99995,"NIST Chemistry WebBook, SRD 69"
+Water,279.15,0.99994,"NIST Chemistry WebBook, SRD 69"
+Water,279.25,0.99994,"NIST Chemistry WebBook, SRD 69"
+Water,279.35,0.99994,"NIST Chemistry WebBook, SRD 69"
+Water,279.45,0.99993,"NIST Chemistry WebBook, SRD 69"
+Water,279.55,0.99993,"NIST Chemistry WebBook, SRD 69"
+Water,279.65,0.99993,"NIST Chemistry WebBook, SRD 69"
+Water,279.75,0.99992,"NIST Chemistry WebBook, SRD 69"
+Water,279.85,0.99992,"NIST Chemistry WebBook, SRD 69"
+Water,279.95,0.99991,"NIST Chemistry WebBook, SRD 69"
+Water,280.05,0.99991,"NIST Chemistry WebBook, SRD 69"
+Water,280.15,0.9999,"NIST Chemistry WebBook, SRD 69"
+Water,280.25,0.9999,"NIST Chemistry WebBook, SRD 69"
+Water,280.35,0.99989,"NIST Chemistry WebBook, SRD 69"
+Water,280.45,0.99989,"NIST Chemistry WebBook, SRD 69"
+Water,280.55,0.99988,"NIST Chemistry WebBook, SRD 69"
+Water,280.65,0.99988,"NIST Chemistry WebBook, SRD 69"
+Water,280.75,0.99987,"NIST Chemistry WebBook, SRD 69"
+Water,280.85,0.99987,"NIST Chemistry WebBook, SRD 69"
+Water,280.95,0.99986,"NIST Chemistry WebBook, SRD 69"
+Water,281.05,0.99986,"NIST Chemistry WebBook, SRD 69"
+Water,281.15,0.99985,"NIST Chemistry WebBook, SRD 69"
+Water,281.25,0.99984,"NIST Chemistry WebBook, SRD 69"
+Water,281.35,0.99984,"NIST Chemistry WebBook, SRD 69"
+Water,281.45,0.99983,"NIST Chemistry WebBook, SRD 69"
+Water,281.55,0.99983,"NIST Chemistry WebBook, SRD 69"
+Water,281.65,0.99982,"NIST Chemistry WebBook, SRD 69"
+Water,281.75,0.99981,"NIST Chemistry WebBook, SRD 69"
+Water,281.85,0.99981,"NIST Chemistry WebBook, SRD 69"
+Water,281.95,0.9998,"NIST Chemistry WebBook, SRD 69"
+Water,282.05,0.99979,"NIST Chemistry WebBook, SRD 69"
+Water,282.15,0.99978,"NIST Chemistry WebBook, SRD 69"
+Water,282.25,0.99978,"NIST Chemistry WebBook, SRD 69"
+Water,282.35,0.99977,"NIST Chemistry WebBook, SRD 69"
+Water,282.45,0.99976,"NIST Chemistry WebBook, SRD 69"
+Water,282.55,0.99975,"NIST Chemistry WebBook, SRD 69"
+Water,282.65,0.99974,"NIST Chemistry WebBook, SRD 69"
+Water,282.75,0.99974,"NIST Chemistry WebBook, SRD 69"
+Water,282.85,0.99973,"NIST Chemistry WebBook, SRD 69"
+Water,282.95,0.99972,"NIST Chemistry WebBook, SRD 69"
+Water,283.05,0.99971,"NIST Chemistry WebBook, SRD 69"
+Water,283.15,0.9997,"NIST Chemistry WebBook, SRD 69"
+Water,283.25,0.99969,"NIST Chemistry WebBook, SRD 69"
+Water,283.35,0.99968,"NIST Chemistry WebBook, SRD 69"
+Water,283.45,0.99968,"NIST Chemistry WebBook, SRD 69"
+Water,283.55,0.99967,"NIST Chemistry WebBook, SRD 69"
+Water,283.65,0.99966,"NIST Chemistry WebBook, SRD 69"
+Water,283.75,0.99965,"NIST Chemistry WebBook, SRD 69"
+Water,283.85,0.99964,"NIST Chemistry WebBook, SRD 69"
+Water,283.95,0.99963,"NIST Chemistry WebBook, SRD 69"
+Water,284.05,0.99962,"NIST Chemistry WebBook, SRD 69"
+Water,284.15,0.99961,"NIST Chemistry WebBook, SRD 69"
+Water,284.25,0.9996,"NIST Chemistry WebBook, SRD 69"
+Water,284.35,0.99959,"NIST Chemistry WebBook, SRD 69"
+Water,284.45,0.99958,"NIST Chemistry WebBook, SRD 69"
+Water,284.55,0.99957,"NIST Chemistry WebBook, SRD 69"
+Water,284.65,0.99956,"NIST Chemistry WebBook, SRD 69"
+Water,284.75,0.99954,"NIST Chemistry WebBook, SRD 69"
+Water,284.85,0.99953,"NIST Chemistry WebBook, SRD 69"
+Water,284.95,0.99952,"NIST Chemistry WebBook, SRD 69"
+Water,285.05,0.99951,"NIST Chemistry WebBook, SRD 69"
+Water,285.15,0.9995,"NIST Chemistry WebBook, SRD 69"
+Water,285.25,0.99949,"NIST Chemistry WebBook, SRD 69"
+Water,285.35,0.99948,"NIST Chemistry WebBook, SRD 69"
+Water,285.45,0.99947,"NIST Chemistry WebBook, SRD 69"
+Water,285.55,0.99945,"NIST Chemistry WebBook, SRD 69"
+Water,285.65,0.99944,"NIST Chemistry WebBook, SRD 69"
+Water,285.75,0.99943,"NIST Chemistry WebBook, SRD 69"
+Water,285.85,0.99942,"NIST Chemistry WebBook, SRD 69"
+Water,285.95,0.99941,"NIST Chemistry WebBook, SRD 69"
+Water,286.05,0.99939,"NIST Chemistry WebBook, SRD 69"
+Water,286.15,0.99938,"NIST Chemistry WebBook, SRD 69"
+Water,286.25,0.99937,"NIST Chemistry WebBook, SRD 69"
+Water,286.35,0.99935,"NIST Chemistry WebBook, SRD 69"
+Water,286.45,0.99934,"NIST Chemistry WebBook, SRD 69"
+Water,286.55,0.99933,"NIST Chemistry WebBook, SRD 69"
+Water,286.65,0.99932,"NIST Chemistry WebBook, SRD 69"
+Water,286.75,0.9993,"NIST Chemistry WebBook, SRD 69"
+Water,286.85,0.99929,"NIST Chemistry WebBook, SRD 69"
+Water,286.95,0.99927,"NIST Chemistry WebBook, SRD 69"
+Water,287.05,0.99926,"NIST Chemistry WebBook, SRD 69"
+Water,287.15,0.99925,"NIST Chemistry WebBook, SRD 69"
+Water,287.25,0.99923,"NIST Chemistry WebBook, SRD 69"
+Water,287.35,0.99922,"NIST Chemistry WebBook, SRD 69"
+Water,287.45,0.99921,"NIST Chemistry WebBook, SRD 69"
+Water,287.55,0.99919,"NIST Chemistry WebBook, SRD 69"
+Water,287.65,0.99918,"NIST Chemistry WebBook, SRD 69"
+Water,287.75,0.99916,"NIST Chemistry WebBook, SRD 69"
+Water,287.85,0.99915,"NIST Chemistry WebBook, SRD 69"
+Water,287.95,0.99913,"NIST Chemistry WebBook, SRD 69"
+Water,288.05,0.99912,"NIST Chemistry WebBook, SRD 69"
+Water,288.15,0.9991,"NIST Chemistry WebBook, SRD 69"
+Water,288.25,0.99909,"NIST Chemistry WebBook, SRD 69"
+Water,288.35,0.99907,"NIST Chemistry WebBook, SRD 69"
+Water,288.45,0.99906,"NIST Chemistry WebBook, SRD 69"
+Water,288.55,0.99904,"NIST Chemistry WebBook, SRD 69"
+Water,288.65,0.99903,"NIST Chemistry WebBook, SRD 69"
+Water,288.75,0.99901,"NIST Chemistry WebBook, SRD 69"
+Water,288.85,0.99899,"NIST Chemistry WebBook, SRD 69"
+Water,288.95,0.99898,"NIST Chemistry WebBook, SRD 69"
+Water,289.05,0.99896,"NIST Chemistry WebBook, SRD 69"
+Water,289.15,0.99895,"NIST Chemistry WebBook, SRD 69"
+Water,289.25,0.99893,"NIST Chemistry WebBook, SRD 69"
+Water,289.35,0.99891,"NIST Chemistry WebBook, SRD 69"
+Water,289.45,0.9989,"NIST Chemistry WebBook, SRD 69"
+Water,289.55,0.99888,"NIST Chemistry WebBook, SRD 69"
+Water,289.65,0.99886,"NIST Chemistry WebBook, SRD 69"
+Water,289.75,0.99885,"NIST Chemistry WebBook, SRD 69"
+Water,289.85,0.99883,"NIST Chemistry WebBook, SRD 69"
+Water,289.95,0.99881,"NIST Chemistry WebBook, SRD 69"
+Water,290.05,0.9988,"NIST Chemistry WebBook, SRD 69"
+Water,290.15,0.99878,"NIST Chemistry WebBook, SRD 69"
+Water,290.25,0.99876,"NIST Chemistry WebBook, SRD 69"
+Water,290.35,0.99874,"NIST Chemistry WebBook, SRD 69"
+Water,290.45,0.99873,"NIST Chemistry WebBook, SRD 69"
+Water,290.55,0.99871,"NIST Chemistry WebBook, SRD 69"
+Water,290.65,0.99869,"NIST Chemistry WebBook, SRD 69"
+Water,290.75,0.99867,"NIST Chemistry WebBook, SRD 69"
+Water,290.85,0.99865,"NIST Chemistry WebBook, SRD 69"
+Water,290.95,0.99864,"NIST Chemistry WebBook, SRD 69"
+Water,291.05,0.99862,"NIST Chemistry WebBook, SRD 69"
+Water,291.15,0.9986,"NIST Chemistry WebBook, SRD 69"
+Water,291.25,0.99858,"NIST Chemistry WebBook, SRD 69"
+Water,291.35,0.99856,"NIST Chemistry WebBook, SRD 69"
+Water,291.45,0.99854,"NIST Chemistry WebBook, SRD 69"
+Water,291.55,0.99852,"NIST Chemistry WebBook, SRD 69"
+Water,291.65,0.9985,"NIST Chemistry WebBook, SRD 69"
+Water,291.75,0.99849,"NIST Chemistry WebBook, SRD 69"
+Water,291.85,0.99847,"NIST Chemistry WebBook, SRD 69"
+Water,291.95,0.99845,"NIST Chemistry WebBook, SRD 69"
+Water,292.05,0.99843,"NIST Chemistry WebBook, SRD 69"
+Water,292.15,0.99841,"NIST Chemistry WebBook, SRD 69"
+Water,292.25,0.99839,"NIST Chemistry WebBook, SRD 69"
+Water,292.35,0.99837,"NIST Chemistry WebBook, SRD 69"
+Water,292.45,0.99835,"NIST Chemistry WebBook, SRD 69"
+Water,292.55,0.99833,"NIST Chemistry WebBook, SRD 69"
+Water,292.65,0.99831,"NIST Chemistry WebBook, SRD 69"
+Water,292.75,0.99829,"NIST Chemistry WebBook, SRD 69"
+Water,292.85,0.99827,"NIST Chemistry WebBook, SRD 69"
+Water,292.95,0.99825,"NIST Chemistry WebBook, SRD 69"
+Water,293.05,0.99823,"NIST Chemistry WebBook, SRD 69"
+Water,293.15,0.99821,"NIST Chemistry WebBook, SRD 69"
+Water,293.25,0.99819,"NIST Chemistry WebBook, SRD 69"
+Water,293.35,0.99817,"NIST Chemistry WebBook, SRD 69"
+Water,293.45,0.99814,"NIST Chemistry WebBook, SRD 69"
+Water,293.55,0.99812,"NIST Chemistry WebBook, SRD 69"
+Water,293.65,0.9981,"NIST Chemistry WebBook, SRD 69"
+Water,293.75,0.99808,"NIST Chemistry WebBook, SRD 69"
+Water,293.85,0.99806,"NIST Chemistry WebBook, SRD 69"
+Water,293.95,0.99804,"NIST Chemistry WebBook, SRD 69"
+Water,294.05,0.99802,"NIST Chemistry WebBook, SRD 69"
+Water,294.15,0.998,"NIST Chemistry WebBook, SRD 69"
+Water,294.25,0.99797,"NIST Chemistry WebBook, SRD 69"
+Water,294.35,0.99795,"NIST Chemistry WebBook, SRD 69"
+Water,294.45,0.99793,"NIST Chemistry WebBook, SRD 69"
+Water,294.55,0.99791,"NIST Chemistry WebBook, SRD 69"
+Water,294.65,0.99789,"NIST Chemistry WebBook, SRD 69"
+Water,294.75,0.99786,"NIST Chemistry WebBook, SRD 69"
+Water,294.85,0.99784,"NIST Chemistry WebBook, SRD 69"
+Water,294.95,0.99782,"NIST Chemistry WebBook, SRD 69"
+Water,295.05,0.9978,"NIST Chemistry WebBook, SRD 69"
+Water,295.15,0.99777,"NIST Chemistry WebBook, SRD 69"
+Water,295.25,0.99775,"NIST Chemistry WebBook, SRD 69"
+Water,295.35,0.99773,"NIST Chemistry WebBook, SRD 69"
+Water,295.45,0.9977,"NIST Chemistry WebBook, SRD 69"
+Water,295.55,0.99768,"NIST Chemistry WebBook, SRD 69"
+Water,295.65,0.99766,"NIST Chemistry WebBook, SRD 69"
+Water,295.75,0.99764,"NIST Chemistry WebBook, SRD 69"
+Water,295.85,0.99761,"NIST Chemistry WebBook, SRD 69"
+Water,295.95,0.99759,"NIST Chemistry WebBook, SRD 69"
+Water,296.05,0.99757,"NIST Chemistry WebBook, SRD 69"
+Water,296.15,0.99754,"NIST Chemistry WebBook, SRD 69"
+Water,296.25,0.99752,"NIST Chemistry WebBook, SRD 69"
+Water,296.35,0.99749,"NIST Chemistry WebBook, SRD 69"
+Water,296.45,0.99747,"NIST Chemistry WebBook, SRD 69"
+Water,296.55,0.99745,"NIST Chemistry WebBook, SRD 69"
+Water,296.65,0.99742,"NIST Chemistry WebBook, SRD 69"
+Water,296.75,0.9974,"NIST Chemistry WebBook, SRD 69"
+Water,296.85,0.99737,"NIST Chemistry WebBook, SRD 69"
+Water,296.95,0.99735,"NIST Chemistry WebBook, SRD 69"
+Water,297.05,0.99732,"NIST Chemistry WebBook, SRD 69"
+Water,297.15,0.9973,"NIST Chemistry WebBook, SRD 69"
+Water,297.25,0.99727,"NIST Chemistry WebBook, SRD 69"
+Water,297.35,0.99725,"NIST Chemistry WebBook, SRD 69"
+Water,297.45,0.99722,"NIST Chemistry WebBook, SRD 69"
+Water,297.55,0.9972,"NIST Chemistry WebBook, SRD 69"
+Water,297.65,0.99717,"NIST Chemistry WebBook, SRD 69"
+Water,297.75,0.99715,"NIST Chemistry WebBook, SRD 69"
+Water,297.85,0.99712,"NIST Chemistry WebBook, SRD 69"
+Water,297.95,0.9971,"NIST Chemistry WebBook, SRD 69"
+Water,298.05,0.99707,"NIST Chemistry WebBook, SRD 69"
+Water,298.15,0.99705,"NIST Chemistry WebBook, SRD 69"
+Water,298.25,0.99702,"NIST Chemistry WebBook, SRD 69"
+Water,298.35,0.997,"NIST Chemistry WebBook, SRD 69"
+Water,298.45,0.99697,"NIST Chemistry WebBook, SRD 69"
+Water,298.55,0.99694,"NIST Chemistry WebBook, SRD 69"
+Water,298.65,0.99692,"NIST Chemistry WebBook, SRD 69"
+Water,298.75,0.99689,"NIST Chemistry WebBook, SRD 69"
+Water,298.85,0.99687,"NIST Chemistry WebBook, SRD 69"
+Water,298.95,0.99684,"NIST Chemistry WebBook, SRD 69"
+Water,299.05,0.99681,"NIST Chemistry WebBook, SRD 69"
+Water,299.15,0.99679,"NIST Chemistry WebBook, SRD 69"
+Water,299.25,0.99676,"NIST Chemistry WebBook, SRD 69"
+Water,299.35,0.99673,"NIST Chemistry WebBook, SRD 69"
+Water,299.45,0.99671,"NIST Chemistry WebBook, SRD 69"
+Water,299.55,0.99668,"NIST Chemistry WebBook, SRD 69"
+Water,299.65,0.99665,"NIST Chemistry WebBook, SRD 69"
+Water,299.75,0.99663,"NIST Chemistry WebBook, SRD 69"
+Water,299.85,0.9966,"NIST Chemistry WebBook, SRD 69"
+Water,299.95,0.99657,"NIST Chemistry WebBook, SRD 69"
+Water,300.05,0.99654,"NIST Chemistry WebBook, SRD 69"
+Water,300.15,0.99652,"NIST Chemistry WebBook, SRD 69"
+Water,300.25,0.99649,"NIST Chemistry WebBook, SRD 69"
+Water,300.35,0.99646,"NIST Chemistry WebBook, SRD 69"
+Water,300.45,0.99643,"NIST Chemistry WebBook, SRD 69"
+Water,300.55,0.9964,"NIST Chemistry WebBook, SRD 69"
+Water,300.65,0.99638,"NIST Chemistry WebBook, SRD 69"
+Water,300.75,0.99635,"NIST Chemistry WebBook, SRD 69"
+Water,300.85,0.99632,"NIST Chemistry WebBook, SRD 69"
+Water,300.95,0.99629,"NIST Chemistry WebBook, SRD 69"
+Water,301.05,0.99626,"NIST Chemistry WebBook, SRD 69"
+Water,301.15,0.99624,"NIST Chemistry WebBook, SRD 69"
+Water,301.25,0.99621,"NIST Chemistry WebBook, SRD 69"
+Water,301.35,0.99618,"NIST Chemistry WebBook, SRD 69"
+Water,301.45,0.99615,"NIST Chemistry WebBook, SRD 69"
+Water,301.55,0.99612,"NIST Chemistry WebBook, SRD 69"
+Water,301.65,0.99609,"NIST Chemistry WebBook, SRD 69"
+Water,301.75,0.99606,"NIST Chemistry WebBook, SRD 69"
+Water,301.85,0.99603,"NIST Chemistry WebBook, SRD 69"
+Water,301.95,0.99601,"NIST Chemistry WebBook, SRD 69"
+Water,302.05,0.99598,"NIST Chemistry WebBook, SRD 69"
+Water,302.15,0.99595,"NIST Chemistry WebBook, SRD 69"
+Water,302.25,0.99592,"NIST Chemistry WebBook, SRD 69"
+Water,302.35,0.99589,"NIST Chemistry WebBook, SRD 69"
+Water,302.45,0.99586,"NIST Chemistry WebBook, SRD 69"
+Water,302.55,0.99583,"NIST Chemistry WebBook, SRD 69"
+Water,302.65,0.9958,"NIST Chemistry WebBook, SRD 69"
+Water,302.75,0.99577,"NIST Chemistry WebBook, SRD 69"
+Water,302.85,0.99574,"NIST Chemistry WebBook, SRD 69"
+Water,302.95,0.99571,"NIST Chemistry WebBook, SRD 69"
+Water,303.05,0.99568,"NIST Chemistry WebBook, SRD 69"
+Water,303.15,0.99565,"NIST Chemistry WebBook, SRD 69"
+Water,303.25,0.99562,"NIST Chemistry WebBook, SRD 69"
+Water,303.35,0.99559,"NIST Chemistry WebBook, SRD 69"
+Water,303.45,0.99556,"NIST Chemistry WebBook, SRD 69"
+Water,303.55,0.99553,"NIST Chemistry WebBook, SRD 69"
+Water,303.65,0.9955,"NIST Chemistry WebBook, SRD 69"
+Water,303.75,0.99547,"NIST Chemistry WebBook, SRD 69"
+Water,303.85,0.99544,"NIST Chemistry WebBook, SRD 69"
+Water,303.95,0.99541,"NIST Chemistry WebBook, SRD 69"
+Water,304.05,0.99537,"NIST Chemistry WebBook, SRD 69"
+Water,304.15,0.99534,"NIST Chemistry WebBook, SRD 69"
+Water,304.25,0.99531,"NIST Chemistry WebBook, SRD 69"
+Water,304.35,0.99528,"NIST Chemistry WebBook, SRD 69"
+Water,304.45,0.99525,"NIST Chemistry WebBook, SRD 69"
+Water,304.55,0.99522,"NIST Chemistry WebBook, SRD 69"
+Water,304.65,0.99519,"NIST Chemistry WebBook, SRD 69"
+Water,304.75,0.99516,"NIST Chemistry WebBook, SRD 69"
+Water,304.85,0.99512,"NIST Chemistry WebBook, SRD 69"
+Water,304.95,0.99509,"NIST Chemistry WebBook, SRD 69"
+Water,305.05,0.99506,"NIST Chemistry WebBook, SRD 69"
+Water,305.15,0.99503,"NIST Chemistry WebBook, SRD 69"
+Water,305.25,0.995,"NIST Chemistry WebBook, SRD 69"
+Water,305.35,0.99496,"NIST Chemistry WebBook, SRD 69"
+Water,305.45,0.99493,"NIST Chemistry WebBook, SRD 69"
+Water,305.55,0.9949,"NIST Chemistry WebBook, SRD 69"
+Water,305.65,0.99487,"NIST Chemistry WebBook, SRD 69"
+Water,305.75,0.99484,"NIST Chemistry WebBook, SRD 69"
+Water,305.85,0.9948,"NIST Chemistry WebBook, SRD 69"
+Water,305.95,0.99477,"NIST Chemistry WebBook, SRD 69"
+Water,306.05,0.99474,"NIST Chemistry WebBook, SRD 69"
+Water,306.15,0.9947,"NIST Chemistry WebBook, SRD 69"
+Water,306.25,0.99467,"NIST Chemistry WebBook, SRD 69"
+Water,306.35,0.99464,"NIST Chemistry WebBook, SRD 69"
+Water,306.45,0.99461,"NIST Chemistry WebBook, SRD 69"
+Water,306.55,0.99457,"NIST Chemistry WebBook, SRD 69"
+Water,306.65,0.99454,"NIST Chemistry WebBook, SRD 69"
+Water,306.75,0.99451,"NIST Chemistry WebBook, SRD 69"
+Water,306.85,0.99447,"NIST Chemistry WebBook, SRD 69"
+Water,306.95,0.99444,"NIST Chemistry WebBook, SRD 69"
+Water,307.05,0.99441,"NIST Chemistry WebBook, SRD 69"
+Water,307.15,0.99437,"NIST Chemistry WebBook, SRD 69"
+Water,307.25,0.99434,"NIST Chemistry WebBook, SRD 69"
+Water,307.35,0.99431,"NIST Chemistry WebBook, SRD 69"
+Water,307.45,0.99427,"NIST Chemistry WebBook, SRD 69"
+Water,307.55,0.99424,"NIST Chemistry WebBook, SRD 69"
+Water,307.65,0.9942,"NIST Chemistry WebBook, SRD 69"
+Water,307.75,0.99417,"NIST Chemistry WebBook, SRD 69"
+Water,307.85,0.99414,"NIST Chemistry WebBook, SRD 69"
+Water,307.95,0.9941,"NIST Chemistry WebBook, SRD 69"
+Water,308.05,0.99407,"NIST Chemistry WebBook, SRD 69"
+Water,308.15,0.99403,"NIST Chemistry WebBook, SRD 69"
+Water,308.25,0.994,"NIST Chemistry WebBook, SRD 69"
+Water,308.35,0.99396,"NIST Chemistry WebBook, SRD 69"
+Water,308.45,0.99393,"NIST Chemistry WebBook, SRD 69"
+Water,308.55,0.9939,"NIST Chemistry WebBook, SRD 69"
+Water,308.65,0.99386,"NIST Chemistry WebBook, SRD 69"
+Water,308.75,0.99383,"NIST Chemistry WebBook, SRD 69"
+Water,308.85,0.99379,"NIST Chemistry WebBook, SRD 69"
+Water,308.95,0.99376,"NIST Chemistry WebBook, SRD 69"
+Water,309.05,0.99372,"NIST Chemistry WebBook, SRD 69"
+Water,309.15,0.99369,"NIST Chemistry WebBook, SRD 69"
+Water,309.25,0.99365,"NIST Chemistry WebBook, SRD 69"
+Water,309.35,0.99361,"NIST Chemistry WebBook, SRD 69"
+Water,309.45,0.99358,"NIST Chemistry WebBook, SRD 69"
+Water,309.55,0.99354,"NIST Chemistry WebBook, SRD 69"
+Water,309.65,0.99351,"NIST Chemistry WebBook, SRD 69"
+Water,309.75,0.99347,"NIST Chemistry WebBook, SRD 69"
+Water,309.85,0.99344,"NIST Chemistry WebBook, SRD 69"
+Water,309.95,0.9934,"NIST Chemistry WebBook, SRD 69"
+Water,310.05,0.99337,"NIST Chemistry WebBook, SRD 69"
+Water,310.15,0.99333,"NIST Chemistry WebBook, SRD 69"
+Water,310.25,0.99329,"NIST Chemistry WebBook, SRD 69"
+Water,310.35,0.99326,"NIST Chemistry WebBook, SRD 69"
+Water,310.45,0.99322,"NIST Chemistry WebBook, SRD 69"
+Water,310.55,0.99319,"NIST Chemistry WebBook, SRD 69"
+Water,310.65,0.99315,"NIST Chemistry WebBook, SRD 69"
+Water,310.75,0.99311,"NIST Chemistry WebBook, SRD 69"
+Water,310.85,0.99308,"NIST Chemistry WebBook, SRD 69"
+Water,310.95,0.99304,"NIST Chemistry WebBook, SRD 69"
+Water,311.05,0.993,"NIST Chemistry WebBook, SRD 69"
+Water,311.15,0.99297,"NIST Chemistry WebBook, SRD 69"
+Water,311.25,0.99293,"NIST Chemistry WebBook, SRD 69"
+Water,311.35,0.99289,"NIST Chemistry WebBook, SRD 69"
+Water,311.45,0.99286,"NIST Chemistry WebBook, SRD 69"
+Water,311.55,0.99282,"NIST Chemistry WebBook, SRD 69"
+Water,311.65,0.99278,"NIST Chemistry WebBook, SRD 69"
+Water,311.75,0.99274,"NIST Chemistry WebBook, SRD 69"
+Water,311.85,0.99271,"NIST Chemistry WebBook, SRD 69"
+Water,311.95,0.99267,"NIST Chemistry WebBook, SRD 69"
+Water,312.05,0.99263,"NIST Chemistry WebBook, SRD 69"
+Water,312.15,0.9926,"NIST Chemistry WebBook, SRD 69"
+Water,312.25,0.99256,"NIST Chemistry WebBook, SRD 69"
+Water,312.35,0.99252,"NIST Chemistry WebBook, SRD 69"
+Water,312.45,0.99248,"NIST Chemistry WebBook, SRD 69"
+Water,312.55,0.99244,"NIST Chemistry WebBook, SRD 69"
+Water,312.65,0.99241,"NIST Chemistry WebBook, SRD 69"
+Water,312.75,0.99237,"NIST Chemistry WebBook, SRD 69"
+Water,312.85,0.99233,"NIST Chemistry WebBook, SRD 69"
+Water,312.95,0.99229,"NIST Chemistry WebBook, SRD 69"
+Water,313.05,0.99225,"NIST Chemistry WebBook, SRD 69"
+Water,313.15,0.99222,"NIST Chemistry WebBook, SRD 69"
+Water,313.25,0.99218,"NIST Chemistry WebBook, SRD 69"
+Water,313.35,0.99214,"NIST Chemistry WebBook, SRD 69"
+Water,313.45,0.9921,"NIST Chemistry WebBook, SRD 69"
+Water,313.55,0.99206,"NIST Chemistry WebBook, SRD 69"
+Water,313.65,0.99202,"NIST Chemistry WebBook, SRD 69"
+Water,313.75,0.99199,"NIST Chemistry WebBook, SRD 69"
+Water,313.85,0.99195,"NIST Chemistry WebBook, SRD 69"
+Water,313.95,0.99191,"NIST Chemistry WebBook, SRD 69"
+Water,314.05,0.99187,"NIST Chemistry WebBook, SRD 69"
+Water,314.15,0.99183,"NIST Chemistry WebBook, SRD 69"
+Water,314.25,0.99179,"NIST Chemistry WebBook, SRD 69"
+Water,314.35,0.99175,"NIST Chemistry WebBook, SRD 69"
+Water,314.45,0.99171,"NIST Chemistry WebBook, SRD 69"
+Water,314.55,0.99167,"NIST Chemistry WebBook, SRD 69"
+Water,314.65,0.99163,"NIST Chemistry WebBook, SRD 69"
+Water,314.75,0.99159,"NIST Chemistry WebBook, SRD 69"
+Water,314.85,0.99156,"NIST Chemistry WebBook, SRD 69"
+Water,314.95,0.99152,"NIST Chemistry WebBook, SRD 69"
+Water,315.05,0.99148,"NIST Chemistry WebBook, SRD 69"
+Water,315.15,0.99144,"NIST Chemistry WebBook, SRD 69"
+Water,315.25,0.9914,"NIST Chemistry WebBook, SRD 69"
+Water,315.35,0.99136,"NIST Chemistry WebBook, SRD 69"
+Water,315.45,0.99132,"NIST Chemistry WebBook, SRD 69"
+Water,315.55,0.99128,"NIST Chemistry WebBook, SRD 69"
+Water,315.65,0.99124,"NIST Chemistry WebBook, SRD 69"
+Water,315.75,0.9912,"NIST Chemistry WebBook, SRD 69"
+Water,315.85,0.99116,"NIST Chemistry WebBook, SRD 69"
+Water,315.95,0.99112,"NIST Chemistry WebBook, SRD 69"
+Water,316.05,0.99108,"NIST Chemistry WebBook, SRD 69"
+Water,316.15,0.99104,"NIST Chemistry WebBook, SRD 69"
+Water,316.25,0.991,"NIST Chemistry WebBook, SRD 69"
+Water,316.35,0.99095,"NIST Chemistry WebBook, SRD 69"
+Water,316.45,0.99091,"NIST Chemistry WebBook, SRD 69"
+Water,316.55,0.99087,"NIST Chemistry WebBook, SRD 69"
+Water,316.65,0.99083,"NIST Chemistry WebBook, SRD 69"
+Water,316.75,0.99079,"NIST Chemistry WebBook, SRD 69"
+Water,316.85,0.99075,"NIST Chemistry WebBook, SRD 69"
+Water,316.95,0.99071,"NIST Chemistry WebBook, SRD 69"
+Water,317.05,0.99067,"NIST Chemistry WebBook, SRD 69"
+Water,317.15,0.99063,"NIST Chemistry WebBook, SRD 69"
+Water,317.25,0.99059,"NIST Chemistry WebBook, SRD 69"
+Water,317.35,0.99055,"NIST Chemistry WebBook, SRD 69"
+Water,317.45,0.9905,"NIST Chemistry WebBook, SRD 69"
+Water,317.55,0.99046,"NIST Chemistry WebBook, SRD 69"
+Water,317.65,0.99042,"NIST Chemistry WebBook, SRD 69"
+Water,317.75,0.99038,"NIST Chemistry WebBook, SRD 69"
+Water,317.85,0.99034,"NIST Chemistry WebBook, SRD 69"
+Water,317.95,0.9903,"NIST Chemistry WebBook, SRD 69"
+Water,318.05,0.99025,"NIST Chemistry WebBook, SRD 69"
+Water,318.15,0.99021,"NIST Chemistry WebBook, SRD 69"
+Water,318.25,0.99017,"NIST Chemistry WebBook, SRD 69"
+Water,318.35,0.99013,"NIST Chemistry WebBook, SRD 69"
+Water,318.45,0.99009,"NIST Chemistry WebBook, SRD 69"
+Water,318.55,0.99004,"NIST Chemistry WebBook, SRD 69"
+Water,318.65,0.99,"NIST Chemistry WebBook, SRD 69"
+Water,318.75,0.98996,"NIST Chemistry WebBook, SRD 69"
+Water,318.85,0.98992,"NIST Chemistry WebBook, SRD 69"
+Water,318.95,0.98988,"NIST Chemistry WebBook, SRD 69"
+Water,319.05,0.98983,"NIST Chemistry WebBook, SRD 69"
+Water,319.15,0.98979,"NIST Chemistry WebBook, SRD 69"
+Water,319.25,0.98975,"NIST Chemistry WebBook, SRD 69"
+Water,319.35,0.98971,"NIST Chemistry WebBook, SRD 69"
+Water,319.45,0.98966,"NIST Chemistry WebBook, SRD 69"
+Water,319.55,0.98962,"NIST Chemistry WebBook, SRD 69"
+Water,319.65,0.98958,"NIST Chemistry WebBook, SRD 69"
+Water,319.75,0.98953,"NIST Chemistry WebBook, SRD 69"
+Water,319.85,0.98949,"NIST Chemistry WebBook, SRD 69"
+Water,319.95,0.98945,"NIST Chemistry WebBook, SRD 69"
+Water,320.05,0.98941,"NIST Chemistry WebBook, SRD 69"
+Water,320.15,0.98936,"NIST Chemistry WebBook, SRD 69"
+Water,320.25,0.98932,"NIST Chemistry WebBook, SRD 69"
+Water,320.35,0.98928,"NIST Chemistry WebBook, SRD 69"
+Water,320.45,0.98923,"NIST Chemistry WebBook, SRD 69"
+Water,320.55,0.98919,"NIST Chemistry WebBook, SRD 69"
+Water,320.65,0.98915,"NIST Chemistry WebBook, SRD 69"
+Water,320.75,0.9891,"NIST Chemistry WebBook, SRD 69"
+Water,320.85,0.98906,"NIST Chemistry WebBook, SRD 69"
+Water,320.95,0.98901,"NIST Chemistry WebBook, SRD 69"
+Water,321.05,0.98897,"NIST Chemistry WebBook, SRD 69"
+Water,321.15,0.98893,"NIST Chemistry WebBook, SRD 69"
+Water,321.25,0.98888,"NIST Chemistry WebBook, SRD 69"
+Water,321.35,0.98884,"NIST Chemistry WebBook, SRD 69"
+Water,321.45,0.98879,"NIST Chemistry WebBook, SRD 69"
+Water,321.55,0.98875,"NIST Chemistry WebBook, SRD 69"
+Water,321.65,0.98871,"NIST Chemistry WebBook, SRD 69"
+Water,321.75,0.98866,"NIST Chemistry WebBook, SRD 69"
+Water,321.85,0.98862,"NIST Chemistry WebBook, SRD 69"
+Water,321.95,0.98857,"NIST Chemistry WebBook, SRD 69"
+Water,322.05,0.98853,"NIST Chemistry WebBook, SRD 69"
+Water,322.15,0.98848,"NIST Chemistry WebBook, SRD 69"
+Water,322.25,0.98844,"NIST Chemistry WebBook, SRD 69"
+Water,322.35,0.98839,"NIST Chemistry WebBook, SRD 69"
+Water,322.45,0.98835,"NIST Chemistry WebBook, SRD 69"
+Water,322.55,0.98831,"NIST Chemistry WebBook, SRD 69"
+Water,322.65,0.98826,"NIST Chemistry WebBook, SRD 69"
+Water,322.75,0.98822,"NIST Chemistry WebBook, SRD 69"
+Water,322.85,0.98817,"NIST Chemistry WebBook, SRD 69"
+Water,322.95,0.98813,"NIST Chemistry WebBook, SRD 69"
+Water,323.05,0.98808,"NIST Chemistry WebBook, SRD 69"
+Water,323.15,0.98804,"NIST Chemistry WebBook, SRD 69"
+Water,323.25,0.98799,"NIST Chemistry WebBook, SRD 69"
+Water,323.35,0.98794,"NIST Chemistry WebBook, SRD 69"
+Water,323.45,0.9879,"NIST Chemistry WebBook, SRD 69"
+Water,323.55,0.98785,"NIST Chemistry WebBook, SRD 69"
+Water,323.65,0.98781,"NIST Chemistry WebBook, SRD 69"
+Water,323.75,0.98776,"NIST Chemistry WebBook, SRD 69"
+Water,323.85,0.98772,"NIST Chemistry WebBook, SRD 69"
+Water,323.95,0.98767,"NIST Chemistry WebBook, SRD 69"
+Water,324.05,0.98763,"NIST Chemistry WebBook, SRD 69"
+Water,324.15,0.98758,"NIST Chemistry WebBook, SRD 69"
+Water,324.25,0.98753,"NIST Chemistry WebBook, SRD 69"
+Water,324.35,0.98749,"NIST Chemistry WebBook, SRD 69"
+Water,324.45,0.98744,"NIST Chemistry WebBook, SRD 69"
+Water,324.55,0.9874,"NIST Chemistry WebBook, SRD 69"
+Water,324.65,0.98735,"NIST Chemistry WebBook, SRD 69"
+Water,324.75,0.9873,"NIST Chemistry WebBook, SRD 69"
+Water,324.85,0.98726,"NIST Chemistry WebBook, SRD 69"
+Water,324.95,0.98721,"NIST Chemistry WebBook, SRD 69"
+Water,325.05,0.98716,"NIST Chemistry WebBook, SRD 69"
+Water,325.15,0.98712,"NIST Chemistry WebBook, SRD 69"
+Water,325.25,0.98707,"NIST Chemistry WebBook, SRD 69"
+Water,325.35,0.98702,"NIST Chemistry WebBook, SRD 69"
+Water,325.45,0.98698,"NIST Chemistry WebBook, SRD 69"
+Water,325.55,0.98693,"NIST Chemistry WebBook, SRD 69"
+Water,325.65,0.98688,"NIST Chemistry WebBook, SRD 69"
+Water,325.75,0.98684,"NIST Chemistry WebBook, SRD 69"
+Water,325.85,0.98679,"NIST Chemistry WebBook, SRD 69"
+Water,325.95,0.98674,"NIST Chemistry WebBook, SRD 69"
+Water,326.05,0.9867,"NIST Chemistry WebBook, SRD 69"
+Water,326.15,0.98665,"NIST Chemistry WebBook, SRD 69"
+Water,326.25,0.9866,"NIST Chemistry WebBook, SRD 69"
+Water,326.35,0.98655,"NIST Chemistry WebBook, SRD 69"
+Water,326.45,0.98651,"NIST Chemistry WebBook, SRD 69"
+Water,326.55,0.98646,"NIST Chemistry WebBook, SRD 69"
+Water,326.65,0.98641,"NIST Chemistry WebBook, SRD 69"
+Water,326.75,0.98636,"NIST Chemistry WebBook, SRD 69"
+Water,326.85,0.98632,"NIST Chemistry WebBook, SRD 69"
+Water,326.95,0.98627,"NIST Chemistry WebBook, SRD 69"
+Water,327.05,0.98622,"NIST Chemistry WebBook, SRD 69"
+Water,327.15,0.98617,"NIST Chemistry WebBook, SRD 69"
+Water,327.25,0.98613,"NIST Chemistry WebBook, SRD 69"
+Water,327.35,0.98608,"NIST Chemistry WebBook, SRD 69"
+Water,327.45,0.98603,"NIST Chemistry WebBook, SRD 69"
+Water,327.55,0.98598,"NIST Chemistry WebBook, SRD 69"
+Water,327.65,0.98593,"NIST Chemistry WebBook, SRD 69"
+Water,327.75,0.98589,"NIST Chemistry WebBook, SRD 69"
+Water,327.85,0.98584,"NIST Chemistry WebBook, SRD 69"
+Water,327.95,0.98579,"NIST Chemistry WebBook, SRD 69"
+Water,328.05,0.98574,"NIST Chemistry WebBook, SRD 69"
+Water,328.15,0.98569,"NIST Chemistry WebBook, SRD 69"
+Water,328.25,0.98564,"NIST Chemistry WebBook, SRD 69"
+Water,328.35,0.9856,"NIST Chemistry WebBook, SRD 69"
+Water,328.45,0.98555,"NIST Chemistry WebBook, SRD 69"
+Water,328.55,0.9855,"NIST Chemistry WebBook, SRD 69"
+Water,328.65,0.98545,"NIST Chemistry WebBook, SRD 69"
+Water,328.75,0.9854,"NIST Chemistry WebBook, SRD 69"
+Water,328.85,0.98535,"NIST Chemistry WebBook, SRD 69"
+Water,328.95,0.9853,"NIST Chemistry WebBook, SRD 69"
+Water,329.05,0.98525,"NIST Chemistry WebBook, SRD 69"
+Water,329.15,0.98521,"NIST Chemistry WebBook, SRD 69"
+Water,329.25,0.98516,"NIST Chemistry WebBook, SRD 69"
+Water,329.35,0.98511,"NIST Chemistry WebBook, SRD 69"
+Water,329.45,0.98506,"NIST Chemistry WebBook, SRD 69"
+Water,329.55,0.98501,"NIST Chemistry WebBook, SRD 69"
+Water,329.65,0.98496,"NIST Chemistry WebBook, SRD 69"
+Water,329.75,0.98491,"NIST Chemistry WebBook, SRD 69"
+Water,329.85,0.98486,"NIST Chemistry WebBook, SRD 69"
+Water,329.95,0.98481,"NIST Chemistry WebBook, SRD 69"
+Water,330.05,0.98476,"NIST Chemistry WebBook, SRD 69"
+Water,330.15,0.98471,"NIST Chemistry WebBook, SRD 69"
+Water,330.25,0.98466,"NIST Chemistry WebBook, SRD 69"
+Water,330.35,0.98461,"NIST Chemistry WebBook, SRD 69"
+Water,330.45,0.98456,"NIST Chemistry WebBook, SRD 69"
+Water,330.55,0.98451,"NIST Chemistry WebBook, SRD 69"
+Water,330.65,0.98446,"NIST Chemistry WebBook, SRD 69"
+Water,330.75,0.98441,"NIST Chemistry WebBook, SRD 69"
+Water,330.85,0.98436,"NIST Chemistry WebBook, SRD 69"
+Water,330.95,0.98431,"NIST Chemistry WebBook, SRD 69"
+Water,331.05,0.98426,"NIST Chemistry WebBook, SRD 69"
+Water,331.15,0.98421,"NIST Chemistry WebBook, SRD 69"
+Water,331.25,0.98416,"NIST Chemistry WebBook, SRD 69"
+Water,331.35,0.98411,"NIST Chemistry WebBook, SRD 69"
+Water,331.45,0.98406,"NIST Chemistry WebBook, SRD 69"
+Water,331.55,0.98401,"NIST Chemistry WebBook, SRD 69"
+Water,331.65,0.98396,"NIST Chemistry WebBook, SRD 69"
+Water,331.75,0.98391,"NIST Chemistry WebBook, SRD 69"
+Water,331.85,0.98386,"NIST Chemistry WebBook, SRD 69"
+Water,331.95,0.98381,"NIST Chemistry WebBook, SRD 69"
+Water,332.05,0.98376,"NIST Chemistry WebBook, SRD 69"
+Water,332.15,0.98371,"NIST Chemistry WebBook, SRD 69"
+Water,332.25,0.98366,"NIST Chemistry WebBook, SRD 69"
+Water,332.35,0.98361,"NIST Chemistry WebBook, SRD 69"
+Water,332.45,0.98355,"NIST Chemistry WebBook, SRD 69"
+Water,332.55,0.9835,"NIST Chemistry WebBook, SRD 69"
+Water,332.65,0.98345,"NIST Chemistry WebBook, SRD 69"
+Water,332.75,0.9834,"NIST Chemistry WebBook, SRD 69"
+Water,332.85,0.98335,"NIST Chemistry WebBook, SRD 69"
+Water,332.95,0.9833,"NIST Chemistry WebBook, SRD 69"
+Water,333.05,0.98325,"NIST Chemistry WebBook, SRD 69"
+Water,333.15,0.9832,"NIST Chemistry WebBook, SRD 69"
+Water,333.25,0.98314,"NIST Chemistry WebBook, SRD 69"
+Water,333.35,0.98309,"NIST Chemistry WebBook, SRD 69"
+Water,333.45,0.98304,"NIST Chemistry WebBook, SRD 69"
+Water,333.55,0.98299,"NIST Chemistry WebBook, SRD 69"
+Water,333.65,0.98294,"NIST Chemistry WebBook, SRD 69"
+Water,333.75,0.98289,"NIST Chemistry WebBook, SRD 69"
+Water,333.85,0.98283,"NIST Chemistry WebBook, SRD 69"
+Water,333.95,0.98278,"NIST Chemistry WebBook, SRD 69"
+Water,334.05,0.98273,"NIST Chemistry WebBook, SRD 69"
+Water,334.15,0.98268,"NIST Chemistry WebBook, SRD 69"
+Water,334.25,0.98263,"NIST Chemistry WebBook, SRD 69"
+Water,334.35,0.98257,"NIST Chemistry WebBook, SRD 69"
+Water,334.45,0.98252,"NIST Chemistry WebBook, SRD 69"
+Water,334.55,0.98247,"NIST Chemistry WebBook, SRD 69"
+Water,334.65,0.98242,"NIST Chemistry WebBook, SRD 69"
+Water,334.75,0.98237,"NIST Chemistry WebBook, SRD 69"
+Water,334.85,0.98231,"NIST Chemistry WebBook, SRD 69"
+Water,334.95,0.98226,"NIST Chemistry WebBook, SRD 69"
+Water,335.05,0.98221,"NIST Chemistry WebBook, SRD 69"
+Water,335.15,0.98216,"NIST Chemistry WebBook, SRD 69"
+Water,335.25,0.9821,"NIST Chemistry WebBook, SRD 69"
+Water,335.35,0.98205,"NIST Chemistry WebBook, SRD 69"
+Water,335.45,0.982,"NIST Chemistry WebBook, SRD 69"
+Water,335.55,0.98194,"NIST Chemistry WebBook, SRD 69"
+Water,335.65,0.98189,"NIST Chemistry WebBook, SRD 69"
+Water,335.75,0.98184,"NIST Chemistry WebBook, SRD 69"
+Water,335.85,0.98179,"NIST Chemistry WebBook, SRD 69"
+Water,335.95,0.98173,"NIST Chemistry WebBook, SRD 69"
+Water,336.05,0.98168,"NIST Chemistry WebBook, SRD 69"
+Water,336.15,0.98163,"NIST Chemistry WebBook, SRD 69"
+Water,336.25,0.98157,"NIST Chemistry WebBook, SRD 69"
+Water,336.35,0.98152,"NIST Chemistry WebBook, SRD 69"
+Water,336.45,0.98147,"NIST Chemistry WebBook, SRD 69"
+Water,336.55,0.98141,"NIST Chemistry WebBook, SRD 69"
+Water,336.65,0.98136,"NIST Chemistry WebBook, SRD 69"
+Water,336.75,0.98131,"NIST Chemistry WebBook, SRD 69"
+Water,336.85,0.98125,"NIST Chemistry WebBook, SRD 69"
+Water,336.95,0.9812,"NIST Chemistry WebBook, SRD 69"
+Water,337.05,0.98115,"NIST Chemistry WebBook, SRD 69"
+Water,337.15,0.98109,"NIST Chemistry WebBook, SRD 69"
+Water,337.25,0.98104,"NIST Chemistry WebBook, SRD 69"
+Water,337.35,0.98098,"NIST Chemistry WebBook, SRD 69"
+Water,337.45,0.98093,"NIST Chemistry WebBook, SRD 69"
+Water,337.55,0.98088,"NIST Chemistry WebBook, SRD 69"
+Water,337.65,0.98082,"NIST Chemistry WebBook, SRD 69"
+Water,337.75,0.98077,"NIST Chemistry WebBook, SRD 69"
+Water,337.85,0.98071,"NIST Chemistry WebBook, SRD 69"
+Water,337.95,0.98066,"NIST Chemistry WebBook, SRD 69"
+Water,338.05,0.98061,"NIST Chemistry WebBook, SRD 69"
+Water,338.15,0.98055,"NIST Chemistry WebBook, SRD 69"
+Water,338.25,0.9805,"NIST Chemistry WebBook, SRD 69"
+Water,338.35,0.98044,"NIST Chemistry WebBook, SRD 69"
+Water,338.45,0.98039,"NIST Chemistry WebBook, SRD 69"
+Water,338.55,0.98033,"NIST Chemistry WebBook, SRD 69"
+Water,338.65,0.98028,"NIST Chemistry WebBook, SRD 69"
+Water,338.75,0.98022,"NIST Chemistry WebBook, SRD 69"
+Water,338.85,0.98017,"NIST Chemistry WebBook, SRD 69"
+Water,338.95,0.98011,"NIST Chemistry WebBook, SRD 69"
+Water,339.05,0.98006,"NIST Chemistry WebBook, SRD 69"
+Water,339.15,0.98,"NIST Chemistry WebBook, SRD 69"
+Water,339.25,0.97995,"NIST Chemistry WebBook, SRD 69"
+Water,339.35,0.97989,"NIST Chemistry WebBook, SRD 69"
+Water,339.45,0.97984,"NIST Chemistry WebBook, SRD 69"
+Water,339.55,0.97978,"NIST Chemistry WebBook, SRD 69"
+Water,339.65,0.97973,"NIST Chemistry WebBook, SRD 69"
+Water,339.75,0.97967,"NIST Chemistry WebBook, SRD 69"
+Water,339.85,0.97962,"NIST Chemistry WebBook, SRD 69"
+Water,339.95,0.97956,"NIST Chemistry WebBook, SRD 69"
+Water,340.05,0.97951,"NIST Chemistry WebBook, SRD 69"
+Water,340.15,0.97945,"NIST Chemistry WebBook, SRD 69"
+Water,340.25,0.9794,"NIST Chemistry WebBook, SRD 69"
+Water,340.35,0.97934,"NIST Chemistry WebBook, SRD 69"
+Water,340.45,0.97929,"NIST Chemistry WebBook, SRD 69"
+Water,340.55,0.97923,"NIST Chemistry WebBook, SRD 69"
+Water,340.65,0.97918,"NIST Chemistry WebBook, SRD 69"
+Water,340.75,0.97912,"NIST Chemistry WebBook, SRD 69"
+Water,340.85,0.97906,"NIST Chemistry WebBook, SRD 69"
+Water,340.95,0.97901,"NIST Chemistry WebBook, SRD 69"
+Water,341.05,0.97895,"NIST Chemistry WebBook, SRD 69"
+Water,341.15,0.9789,"NIST Chemistry WebBook, SRD 69"
+Water,341.25,0.97884,"NIST Chemistry WebBook, SRD 69"
+Water,341.35,0.97878,"NIST Chemistry WebBook, SRD 69"
+Water,341.45,0.97873,"NIST Chemistry WebBook, SRD 69"
+Water,341.55,0.97867,"NIST Chemistry WebBook, SRD 69"
+Water,341.65,0.97861,"NIST Chemistry WebBook, SRD 69"
+Water,341.75,0.97856,"NIST Chemistry WebBook, SRD 69"
+Water,341.85,0.9785,"NIST Chemistry WebBook, SRD 69"
+Water,341.95,0.97845,"NIST Chemistry WebBook, SRD 69"
+Water,342.05,0.97839,"NIST Chemistry WebBook, SRD 69"
+Water,342.15,0.97833,"NIST Chemistry WebBook, SRD 69"
+Water,342.25,0.97828,"NIST Chemistry WebBook, SRD 69"
+Water,342.35,0.97822,"NIST Chemistry WebBook, SRD 69"
+Water,342.45,0.97816,"NIST Chemistry WebBook, SRD 69"
+Water,342.55,0.97811,"NIST Chemistry WebBook, SRD 69"
+Water,342.65,0.97805,"NIST Chemistry WebBook, SRD 69"
+Water,342.75,0.97799,"NIST Chemistry WebBook, SRD 69"
+Water,342.85,0.97794,"NIST Chemistry WebBook, SRD 69"
+Water,342.95,0.97788,"NIST Chemistry WebBook, SRD 69"
+Water,343.05,0.97782,"NIST Chemistry WebBook, SRD 69"
+Water,343.15,0.97776,"NIST Chemistry WebBook, SRD 69"
+Water,343.25,0.97771,"NIST Chemistry WebBook, SRD 69"
+Water,343.35,0.97765,"NIST Chemistry WebBook, SRD 69"
+Water,343.45,0.97759,"NIST Chemistry WebBook, SRD 69"
+Water,343.55,0.97754,"NIST Chemistry WebBook, SRD 69"
+Water,343.65,0.97748,"NIST Chemistry WebBook, SRD 69"
+Water,343.75,0.97742,"NIST Chemistry WebBook, SRD 69"
+Water,343.85,0.97736,"NIST Chemistry WebBook, SRD 69"
+Water,343.95,0.97731,"NIST Chemistry WebBook, SRD 69"
+Water,344.05,0.97725,"NIST Chemistry WebBook, SRD 69"
+Water,344.15,0.97719,"NIST Chemistry WebBook, SRD 69"
+Water,344.25,0.97713,"NIST Chemistry WebBook, SRD 69"
+Water,344.35,0.97708,"NIST Chemistry WebBook, SRD 69"
+Water,344.45,0.97702,"NIST Chemistry WebBook, SRD 69"
+Water,344.55,0.97696,"NIST Chemistry WebBook, SRD 69"
+Water,344.65,0.9769,"NIST Chemistry WebBook, SRD 69"
+Water,344.75,0.97684,"NIST Chemistry WebBook, SRD 69"
+Water,344.85,0.97679,"NIST Chemistry WebBook, SRD 69"
+Water,344.95,0.97673,"NIST Chemistry WebBook, SRD 69"
+Water,345.05,0.97667,"NIST Chemistry WebBook, SRD 69"
+Water,345.15,0.97661,"NIST Chemistry WebBook, SRD 69"
+Water,345.25,0.97655,"NIST Chemistry WebBook, SRD 69"
+Water,345.35,0.9765,"NIST Chemistry WebBook, SRD 69"
+Water,345.45,0.97644,"NIST Chemistry WebBook, SRD 69"
+Water,345.55,0.97638,"NIST Chemistry WebBook, SRD 69"
+Water,345.65,0.97632,"NIST Chemistry WebBook, SRD 69"
+Water,345.75,0.97626,"NIST Chemistry WebBook, SRD 69"
+Water,345.85,0.9762,"NIST Chemistry WebBook, SRD 69"
+Water,345.95,0.97614,"NIST Chemistry WebBook, SRD 69"
+Water,346.05,0.97609,"NIST Chemistry WebBook, SRD 69"
+Water,346.15,0.97603,"NIST Chemistry WebBook, SRD 69"
+Water,346.25,0.97597,"NIST Chemistry WebBook, SRD 69"
+Water,346.35,0.97591,"NIST Chemistry WebBook, SRD 69"
+Water,346.45,0.97585,"NIST Chemistry WebBook, SRD 69"
+Water,346.55,0.97579,"NIST Chemistry WebBook, SRD 69"
+Water,346.65,0.97573,"NIST Chemistry WebBook, SRD 69"
+Water,346.75,0.97567,"NIST Chemistry WebBook, SRD 69"
+Water,346.85,0.97562,"NIST Chemistry WebBook, SRD 69"
+Water,346.95,0.97556,"NIST Chemistry WebBook, SRD 69"
+Water,347.05,0.9755,"NIST Chemistry WebBook, SRD 69"
+Water,347.15,0.97544,"NIST Chemistry WebBook, SRD 69"
+Water,347.25,0.97538,"NIST Chemistry WebBook, SRD 69"
+Water,347.35,0.97532,"NIST Chemistry WebBook, SRD 69"
+Water,347.45,0.97526,"NIST Chemistry WebBook, SRD 69"
+Water,347.55,0.9752,"NIST Chemistry WebBook, SRD 69"
+Water,347.65,0.97514,"NIST Chemistry WebBook, SRD 69"
+Water,347.75,0.97508,"NIST Chemistry WebBook, SRD 69"
+Water,347.85,0.97502,"NIST Chemistry WebBook, SRD 69"
+Water,347.95,0.97496,"NIST Chemistry WebBook, SRD 69"
+Water,348.05,0.9749,"NIST Chemistry WebBook, SRD 69"
+Water,348.15,0.97484,"NIST Chemistry WebBook, SRD 69"
+Water,348.25,0.97478,"NIST Chemistry WebBook, SRD 69"
+Water,348.35,0.97472,"NIST Chemistry WebBook, SRD 69"
+Water,348.45,0.97466,"NIST Chemistry WebBook, SRD 69"
+Water,348.55,0.9746,"NIST Chemistry WebBook, SRD 69"
+Water,348.65,0.97454,"NIST Chemistry WebBook, SRD 69"
+Water,348.75,0.97448,"NIST Chemistry WebBook, SRD 69"
+Water,348.85,0.97442,"NIST Chemistry WebBook, SRD 69"
+Water,348.95,0.97436,"NIST Chemistry WebBook, SRD 69"
+Water,349.05,0.9743,"NIST Chemistry WebBook, SRD 69"
+Water,349.15,0.97424,"NIST Chemistry WebBook, SRD 69"
+Water,349.25,0.97418,"NIST Chemistry WebBook, SRD 69"
+Water,349.35,0.97412,"NIST Chemistry WebBook, SRD 69"
+Water,349.45,0.97406,"NIST Chemistry WebBook, SRD 69"
+Water,349.55,0.974,"NIST Chemistry WebBook, SRD 69"
+Water,349.65,0.97394,"NIST Chemistry WebBook, SRD 69"
+Water,349.75,0.97388,"NIST Chemistry WebBook, SRD 69"
+Water,349.85,0.97382,"NIST Chemistry WebBook, SRD 69"
+Water,349.95,0.97376,"NIST Chemistry WebBook, SRD 69"
+Water,350.05,0.9737,"NIST Chemistry WebBook, SRD 69"
+Water,350.15,0.97364,"NIST Chemistry WebBook, SRD 69"
+Water,350.25,0.97358,"NIST Chemistry WebBook, SRD 69"
+Water,350.35,0.97352,"NIST Chemistry WebBook, SRD 69"
+Water,350.45,0.97345,"NIST Chemistry WebBook, SRD 69"
+Water,350.55,0.97339,"NIST Chemistry WebBook, SRD 69"
+Water,350.65,0.97333,"NIST Chemistry WebBook, SRD 69"
+Water,350.75,0.97327,"NIST Chemistry WebBook, SRD 69"
+Water,350.85,0.97321,"NIST Chemistry WebBook, SRD 69"
+Water,350.95,0.97315,"NIST Chemistry WebBook, SRD 69"
+Water,351.05,0.97309,"NIST Chemistry WebBook, SRD 69"
+Water,351.15,0.97303,"NIST Chemistry WebBook, SRD 69"
+Water,351.25,0.97297,"NIST Chemistry WebBook, SRD 69"
+Water,351.35,0.9729,"NIST Chemistry WebBook, SRD 69"
+Water,351.45,0.97284,"NIST Chemistry WebBook, SRD 69"
+Water,351.55,0.97278,"NIST Chemistry WebBook, SRD 69"
+Water,351.65,0.97272,"NIST Chemistry WebBook, SRD 69"
+Water,351.75,0.97266,"NIST Chemistry WebBook, SRD 69"
+Water,351.85,0.9726,"NIST Chemistry WebBook, SRD 69"
+Water,351.95,0.97253,"NIST Chemistry WebBook, SRD 69"
+Water,352.05,0.97247,"NIST Chemistry WebBook, SRD 69"
+Water,352.15,0.97241,"NIST Chemistry WebBook, SRD 69"
+Water,352.25,0.97235,"NIST Chemistry WebBook, SRD 69"
+Water,352.35,0.97229,"NIST Chemistry WebBook, SRD 69"
+Water,352.45,0.97223,"NIST Chemistry WebBook, SRD 69"
+Water,352.55,0.97216,"NIST Chemistry WebBook, SRD 69"
+Water,352.65,0.9721,"NIST Chemistry WebBook, SRD 69"
+Water,352.75,0.97204,"NIST Chemistry WebBook, SRD 69"
+Water,352.85,0.97198,"NIST Chemistry WebBook, SRD 69"
+Water,352.95,0.97191,"NIST Chemistry WebBook, SRD 69"
+Water,353.05,0.97185,"NIST Chemistry WebBook, SRD 69"
+Water,353.15,0.97179,"NIST Chemistry WebBook, SRD 69"
+Water,353.25,0.97173,"NIST Chemistry WebBook, SRD 69"
+Water,353.35,0.97167,"NIST Chemistry WebBook, SRD 69"
+Water,353.45,0.9716,"NIST Chemistry WebBook, SRD 69"
+Water,353.55,0.97154,"NIST Chemistry WebBook, SRD 69"
+Water,353.65,0.97148,"NIST Chemistry WebBook, SRD 69"
+Water,353.75,0.97142,"NIST Chemistry WebBook, SRD 69"
+Water,353.85,0.97135,"NIST Chemistry WebBook, SRD 69"
+Water,353.95,0.97129,"NIST Chemistry WebBook, SRD 69"
+Water,354.05,0.97123,"NIST Chemistry WebBook, SRD 69"
+Water,354.15,0.97116,"NIST Chemistry WebBook, SRD 69"
+Water,354.25,0.9711,"NIST Chemistry WebBook, SRD 69"
+Water,354.35,0.97104,"NIST Chemistry WebBook, SRD 69"
+Water,354.45,0.97098,"NIST Chemistry WebBook, SRD 69"
+Water,354.55,0.97091,"NIST Chemistry WebBook, SRD 69"
+Water,354.65,0.97085,"NIST Chemistry WebBook, SRD 69"
+Water,354.75,0.97079,"NIST Chemistry WebBook, SRD 69"
+Water,354.85,0.97072,"NIST Chemistry WebBook, SRD 69"
+Water,354.95,0.97066,"NIST Chemistry WebBook, SRD 69"
+Water,355.05,0.9706,"NIST Chemistry WebBook, SRD 69"
+Water,355.15,0.97053,"NIST Chemistry WebBook, SRD 69"
+Water,355.25,0.97047,"NIST Chemistry WebBook, SRD 69"
+Water,355.35,0.97041,"NIST Chemistry WebBook, SRD 69"
+Water,355.45,0.97034,"NIST Chemistry WebBook, SRD 69"
+Water,355.55,0.97028,"NIST Chemistry WebBook, SRD 69"
+Water,355.65,0.97022,"NIST Chemistry WebBook, SRD 69"
+Water,355.75,0.97015,"NIST Chemistry WebBook, SRD 69"
+Water,355.85,0.97009,"NIST Chemistry WebBook, SRD 69"
+Water,355.95,0.97003,"NIST Chemistry WebBook, SRD 69"
+Water,356.05,0.96996,"NIST Chemistry WebBook, SRD 69"
+Water,356.15,0.9699,"NIST Chemistry WebBook, SRD 69"
+Water,356.25,0.96983,"NIST Chemistry WebBook, SRD 69"
+Water,356.35,0.96977,"NIST Chemistry WebBook, SRD 69"
+Water,356.45,0.96971,"NIST Chemistry WebBook, SRD 69"
+Water,356.55,0.96964,"NIST Chemistry WebBook, SRD 69"
+Water,356.65,0.96958,"NIST Chemistry WebBook, SRD 69"
+Water,356.75,0.96951,"NIST Chemistry WebBook, SRD 69"
+Water,356.85,0.96945,"NIST Chemistry WebBook, SRD 69"
+Water,356.95,0.96939,"NIST Chemistry WebBook, SRD 69"
+Water,357.05,0.96932,"NIST Chemistry WebBook, SRD 69"
+Water,357.15,0.96926,"NIST Chemistry WebBook, SRD 69"
+Water,357.25,0.96919,"NIST Chemistry WebBook, SRD 69"
+Water,357.35,0.96913,"NIST Chemistry WebBook, SRD 69"
+Water,357.45,0.96906,"NIST Chemistry WebBook, SRD 69"
+Water,357.55,0.969,"NIST Chemistry WebBook, SRD 69"
+Water,357.65,0.96893,"NIST Chemistry WebBook, SRD 69"
+Water,357.75,0.96887,"NIST Chemistry WebBook, SRD 69"
+Water,357.85,0.96881,"NIST Chemistry WebBook, SRD 69"
+Water,357.95,0.96874,"NIST Chemistry WebBook, SRD 69"
+Water,358.05,0.96868,"NIST Chemistry WebBook, SRD 69"
+Water,358.15,0.96861,"NIST Chemistry WebBook, SRD 69"
+Water,358.25,0.96855,"NIST Chemistry WebBook, SRD 69"
+Water,358.35,0.96848,"NIST Chemistry WebBook, SRD 69"
+Water,358.45,0.96842,"NIST Chemistry WebBook, SRD 69"
+Water,358.55,0.96835,"NIST Chemistry WebBook, SRD 69"
+Water,358.65,0.96829,"NIST Chemistry WebBook, SRD 69"
+Water,358.75,0.96822,"NIST Chemistry WebBook, SRD 69"
+Water,358.85,0.96816,"NIST Chemistry WebBook, SRD 69"
+Water,358.95,0.96809,"NIST Chemistry WebBook, SRD 69"
+Water,359.05,0.96803,"NIST Chemistry WebBook, SRD 69"
+Water,359.15,0.96796,"NIST Chemistry WebBook, SRD 69"
+Water,359.25,0.9679,"NIST Chemistry WebBook, SRD 69"
+Water,359.35,0.96783,"NIST Chemistry WebBook, SRD 69"
+Water,359.45,0.96776,"NIST Chemistry WebBook, SRD 69"
+Water,359.55,0.9677,"NIST Chemistry WebBook, SRD 69"
+Water,359.65,0.96763,"NIST Chemistry WebBook, SRD 69"
+Water,359.75,0.96757,"NIST Chemistry WebBook, SRD 69"
+Water,359.85,0.9675,"NIST Chemistry WebBook, SRD 69"
+Water,359.95,0.96744,"NIST Chemistry WebBook, SRD 69"
+Water,360.05,0.96737,"NIST Chemistry WebBook, SRD 69"
+Water,360.15,0.96731,"NIST Chemistry WebBook, SRD 69"
+Water,360.25,0.96724,"NIST Chemistry WebBook, SRD 69"
+Water,360.35,0.96717,"NIST Chemistry WebBook, SRD 69"
+Water,360.45,0.96711,"NIST Chemistry WebBook, SRD 69"
+Water,360.55,0.96704,"NIST Chemistry WebBook, SRD 69"
+Water,360.65,0.96698,"NIST Chemistry WebBook, SRD 69"
+Water,360.75,0.96691,"NIST Chemistry WebBook, SRD 69"
+Water,360.85,0.96684,"NIST Chemistry WebBook, SRD 69"
+Water,360.95,0.96678,"NIST Chemistry WebBook, SRD 69"
+Water,361.05,0.96671,"NIST Chemistry WebBook, SRD 69"
+Water,361.15,0.96664,"NIST Chemistry WebBook, SRD 69"
+Water,361.25,0.96658,"NIST Chemistry WebBook, SRD 69"
+Water,361.35,0.96651,"NIST Chemistry WebBook, SRD 69"
+Water,361.45,0.96645,"NIST Chemistry WebBook, SRD 69"
+Water,361.55,0.96638,"NIST Chemistry WebBook, SRD 69"
+Water,361.65,0.96631,"NIST Chemistry WebBook, SRD 69"
+Water,361.75,0.96625,"NIST Chemistry WebBook, SRD 69"
+Water,361.85,0.96618,"NIST Chemistry WebBook, SRD 69"
+Water,361.95,0.96611,"NIST Chemistry WebBook, SRD 69"
+Water,362.05,0.96605,"NIST Chemistry WebBook, SRD 69"
+Water,362.15,0.96598,"NIST Chemistry WebBook, SRD 69"
+Water,362.25,0.96591,"NIST Chemistry WebBook, SRD 69"
+Water,362.35,0.96585,"NIST Chemistry WebBook, SRD 69"
+Water,362.45,0.96578,"NIST Chemistry WebBook, SRD 69"
+Water,362.55,0.96571,"NIST Chemistry WebBook, SRD 69"
+Water,362.65,0.96565,"NIST Chemistry WebBook, SRD 69"
+Water,362.75,0.96558,"NIST Chemistry WebBook, SRD 69"
+Water,362.85,0.96551,"NIST Chemistry WebBook, SRD 69"
+Water,362.95,0.96544,"NIST Chemistry WebBook, SRD 69"
+Water,363.05,0.96538,"NIST Chemistry WebBook, SRD 69"
+Water,363.15,0.96531,"NIST Chemistry WebBook, SRD 69"
+Water,363.25,0.96524,"NIST Chemistry WebBook, SRD 69"
+Water,363.35,0.96518,"NIST Chemistry WebBook, SRD 69"
+Water,363.45,0.96511,"NIST Chemistry WebBook, SRD 69"
+Water,363.55,0.96504,"NIST Chemistry WebBook, SRD 69"
+Water,363.65,0.96497,"NIST Chemistry WebBook, SRD 69"
+Water,363.75,0.96491,"NIST Chemistry WebBook, SRD 69"
+Water,363.85,0.96484,"NIST Chemistry WebBook, SRD 69"
+Water,363.95,0.96477,"NIST Chemistry WebBook, SRD 69"
+Water,364.05,0.9647,"NIST Chemistry WebBook, SRD 69"
+Water,364.15,0.96463,"NIST Chemistry WebBook, SRD 69"
+Water,364.25,0.96457,"NIST Chemistry WebBook, SRD 69"
+Water,364.35,0.9645,"NIST Chemistry WebBook, SRD 69"
+Water,364.45,0.96443,"NIST Chemistry WebBook, SRD 69"
+Water,364.55,0.96436,"NIST Chemistry WebBook, SRD 69"
+Water,364.65,0.9643,"NIST Chemistry WebBook, SRD 69"
+Water,364.75,0.96423,"NIST Chemistry WebBook, SRD 69"
+Water,364.85,0.96416,"NIST Chemistry WebBook, SRD 69"
+Water,364.95,0.96409,"NIST Chemistry WebBook, SRD 69"
+Water,365.05,0.96402,"NIST Chemistry WebBook, SRD 69"
+Water,365.15,0.96396,"NIST Chemistry WebBook, SRD 69"
+Water,365.25,0.96389,"NIST Chemistry WebBook, SRD 69"
+Water,365.35,0.96382,"NIST Chemistry WebBook, SRD 69"
+Water,365.45,0.96375,"NIST Chemistry WebBook, SRD 69"
+Water,365.55,0.96368,"NIST Chemistry WebBook, SRD 69"
+Water,365.65,0.96361,"NIST Chemistry WebBook, SRD 69"
+Water,365.75,0.96355,"NIST Chemistry WebBook, SRD 69"
+Water,365.85,0.96348,"NIST Chemistry WebBook, SRD 69"
+Water,365.95,0.96341,"NIST Chemistry WebBook, SRD 69"
+Water,366.05,0.96334,"NIST Chemistry WebBook, SRD 69"
+Water,366.15,0.96327,"NIST Chemistry WebBook, SRD 69"
+Water,366.25,0.9632,"NIST Chemistry WebBook, SRD 69"
+Water,366.35,0.96313,"NIST Chemistry WebBook, SRD 69"
+Water,366.45,0.96306,"NIST Chemistry WebBook, SRD 69"
+Water,366.55,0.963,"NIST Chemistry WebBook, SRD 69"
+Water,366.65,0.96293,"NIST Chemistry WebBook, SRD 69"
+Water,366.75,0.96286,"NIST Chemistry WebBook, SRD 69"
+Water,366.85,0.96279,"NIST Chemistry WebBook, SRD 69"
+Water,366.95,0.96272,"NIST Chemistry WebBook, SRD 69"
+Water,367.05,0.96265,"NIST Chemistry WebBook, SRD 69"
+Water,367.15,0.96258,"NIST Chemistry WebBook, SRD 69"
+Water,367.25,0.96251,"NIST Chemistry WebBook, SRD 69"
+Water,367.35,0.96244,"NIST Chemistry WebBook, SRD 69"
+Water,367.45,0.96237,"NIST Chemistry WebBook, SRD 69"
+Water,367.55,0.9623,"NIST Chemistry WebBook, SRD 69"
+Water,367.65,0.96224,"NIST Chemistry WebBook, SRD 69"
+Water,367.75,0.96217,"NIST Chemistry WebBook, SRD 69"
+Water,367.85,0.9621,"NIST Chemistry WebBook, SRD 69"
+Water,367.95,0.96203,"NIST Chemistry WebBook, SRD 69"
+Water,368.05,0.96196,"NIST Chemistry WebBook, SRD 69"
+Water,368.15,0.96189,"NIST Chemistry WebBook, SRD 69"
+Water,368.25,0.96182,"NIST Chemistry WebBook, SRD 69"
+Water,368.35,0.96175,"NIST Chemistry WebBook, SRD 69"
+Water,368.45,0.96168,"NIST Chemistry WebBook, SRD 69"
+Water,368.55,0.96161,"NIST Chemistry WebBook, SRD 69"
+Water,368.65,0.96154,"NIST Chemistry WebBook, SRD 69"
+Water,368.75,0.96147,"NIST Chemistry WebBook, SRD 69"
+Water,368.85,0.9614,"NIST Chemistry WebBook, SRD 69"
+Water,368.95,0.96133,"NIST Chemistry WebBook, SRD 69"
+Water,369.05,0.96126,"NIST Chemistry WebBook, SRD 69"
+Water,369.15,0.96119,"NIST Chemistry WebBook, SRD 69"
+Water,369.25,0.96112,"NIST Chemistry WebBook, SRD 69"
+Water,369.35,0.96105,"NIST Chemistry WebBook, SRD 69"
+Water,369.45,0.96098,"NIST Chemistry WebBook, SRD 69"
+Water,369.55,0.96091,"NIST Chemistry WebBook, SRD 69"
+Water,369.65,0.96084,"NIST Chemistry WebBook, SRD 69"
+Water,369.75,0.96077,"NIST Chemistry WebBook, SRD 69"
+Water,369.85,0.9607,"NIST Chemistry WebBook, SRD 69"
+Water,369.95,0.96063,"NIST Chemistry WebBook, SRD 69"
+Water,370.05,0.96056,"NIST Chemistry WebBook, SRD 69"
+Water,370.15,0.96049,"NIST Chemistry WebBook, SRD 69"
+Water,370.25,0.96042,"NIST Chemistry WebBook, SRD 69"
+Water,370.35,0.96035,"NIST Chemistry WebBook, SRD 69"
+Water,370.45,0.96027,"NIST Chemistry WebBook, SRD 69"
+Water,370.55,0.9602,"NIST Chemistry WebBook, SRD 69"
+Water,370.65,0.96013,"NIST Chemistry WebBook, SRD 69"
+Water,370.75,0.96006,"NIST Chemistry WebBook, SRD 69"
+Water,370.85,0.95999,"NIST Chemistry WebBook, SRD 69"
+Water,370.95,0.95992,"NIST Chemistry WebBook, SRD 69"
+Water,371.05,0.95985,"NIST Chemistry WebBook, SRD 69"
+Water,371.15,0.95978,"NIST Chemistry WebBook, SRD 69"
+Water,371.25,0.95971,"NIST Chemistry WebBook, SRD 69"
+Water,371.35,0.95964,"NIST Chemistry WebBook, SRD 69"
+Water,371.45,0.95957,"NIST Chemistry WebBook, SRD 69"
+Water,371.55,0.95949,"NIST Chemistry WebBook, SRD 69"
+Water,371.65,0.95942,"NIST Chemistry WebBook, SRD 69"
+Water,371.75,0.95935,"NIST Chemistry WebBook, SRD 69"
+Water,371.85,0.95928,"NIST Chemistry WebBook, SRD 69"
+Water,371.95,0.95921,"NIST Chemistry WebBook, SRD 69"
+Water,372.05,0.95914,"NIST Chemistry WebBook, SRD 69"
+Water,372.15,0.95907,"NIST Chemistry WebBook, SRD 69"
+Water,372.25,0.95899,"NIST Chemistry WebBook, SRD 69"
+Water,372.35,0.95892,"NIST Chemistry WebBook, SRD 69"
+Water,372.45,0.95885,"NIST Chemistry WebBook, SRD 69"
+Water,372.55,0.95878,"NIST Chemistry WebBook, SRD 69"
+Water,372.65,0.95871,"NIST Chemistry WebBook, SRD 69"
+Water,372.75,0.95864,"NIST Chemistry WebBook, SRD 69"
+Water,372.85,0.95856,"NIST Chemistry WebBook, SRD 69"
+Water,372.95,0.95849,"NIST Chemistry WebBook, SRD 69"
+Water,373.05,0.95842,"NIST Chemistry WebBook, SRD 69"
+Water,373.12,0.95837,"NIST Chemistry WebBook, SRD 69"
+tetrachloromethane,285.15,1.6095,10.1021/je60076a006
+tetrachloromethane,288.15,1.6037,10.1021/je60076a006
+tetrachloromethane,293.15,1.5940,10.1021/je60076a006
+tetrachloromethane,298.15,1.5843,10.1021/je60076a006
+tetrachloromethane,303.15,1.5746,10.1021/je60076a006
+tetrachloromethane,308.15,1.5648,10.1021/je60076a006
+tetrachloromethane,298.15,1.5840,10.1021/je980145+
+tetrachloromethane,303.15,1.5748,10.1021/je980145+
+tetrachloromethane,308.15,1.5650,10.1021/je980145+
+tetrachloromethane,298.15,1.5851,10.1021/je00061a008
+tetrachloromethane,303.15,1.5749,10.1021/je00061a008
+tetrachloromethane,308.15,1.5650,10.1021/je00061a008
+tetrachloromethane,313.15,1.5554,10.1021/je00061a008
+tert-butanol,308.15,0.77015,10.1016/j.molliq.2012.04.005
+tert-butanol,323.15,0.75394,10.1016/j.molliq.2012.04.005
+tert-butanol,333.15,0.74270,10.1016/j.molliq.2012.04.005
+tert-butanol,348.15,0.72506,10.1016/j.molliq.2012.04.005
+tert-butanol,303.15,0.77521,10.1021/je00053a020
+tert-butanol,308.15,0.76997,10.1021/je00053a020
+tert-butanol,313.15,0.76469,10.1021/je00053a020
+tert-butanol,318.15,0.75937,10.1021/je00053a020
+tert-butanol,323.15,0.75401,10.1021/je00053a020
+tert-butanol,328.15,0.74861,10.1021/je00053a020
+tert-butanol,298.15,0.78049,10.1021/je000149q
+tert-butanol,303.15,0.77573,10.1021/je000149q
+tert-butanol,308.15,0.77020,10.1021/je000149q
+tert-butanol,313.15,0.76484,10.1021/je000149q
+tert-butanol,318.15,0.75941,10.1021/je000149q
+formic acid,298.15,1.2138,10.1021/je000327f
+formic acid,303.15,1.2075,10.1021/je000327f
+formic acid,308.15,1.2012,10.1021/je000327f
+formic acid,313.15,1.1946,10.1021/je000327f
+formic acid,298.15,1.2136,10.3891/acta.chem.scand.25-2852
+formic acid,303.15,1.208973,10.1080/00319100500074707
+formic acid,308.15,1.203002,10.1080/00319100500074707
+formic acid,313.15,1.197080,10.1080/00319100500074707
+formic acid,318.15,1.191230,10.1080/00319100500074707
+formic acid,323.15,1.185442,10.1080/00319100500074707
+Chlorobenzene,298.15,1.101,10.1021/je0201828
+Chlorobenzene,303.15,1.095,10.1021/je0201828
+Chlorobenzene,308.15,1.09,10.1021/je0201828
+Chlorobenzene,293.15,1.10653,10.1021/je00005a035
+Chlorobenzene,313.15,1.08498,10.1021/je00005a035
+Chlorobenzene,288.15,1.1125,10.1021/je990288b
+Chlorobenzene,293.15,1.1072,10.1021/je990288b
+Chlorobenzene,298.15,1.1021,10.1021/je990288b
+Chlorobenzene,308.15,1.0904,10.1021/je980174k
+Chlorobenzene,318.15,1.0790,10.1021/je980174k
+Chlorobenzene,298.15,1.1009,10.1021/je030130y
+Chlorobenzene,303.15,1.0958,10.1021/je030130y
+Chlorobenzene,308.15,1.0908,10.1021/je030130y
+Chlorobenzene,313.15,1.0851,10.1021/je030130y
+mtbe,288.15,0.7476,10.1021/je990288b
+mtbe,293.15,0.7425,10.1021/je990288b
+mtbe,298.15,0.7374,10.1021/je990288b
+mtbe,273.15,0.76134,10.1021/je600554h
+mtbe,278.15,0.75614,10.1021/je600554h
+mtbe,283.15,0.75102,10.1021/je600554h
+mtbe,288.15,0.74585,10.1021/je600554h
+mtbe,293.15,0.74065,10.1021/je600554h
+mtbe,298.15,0.73540,10.1021/je600554h
+mtbe,303.15,0.73010,10.1021/je600554h
+mtbe,308.15,0.72482,10.1021/je600554h
+mtbe,313.15,0.71942,10.1021/je600554h
+mtbe,255.4,0.77968,10.1021/je00004a039
+mtbe,266.5,0.76861,10.1021/je00004a039
+mtbe,274.8,0.76004,10.1021/je00004a039
+mtbe,280.9,0.75331,10.1021/je00004a039
+mtbe,283.2 ,0.75093,10.1021/je00004a039
+mtbe,285.9,0.74811,10.1021/je00004a039
+mtbe,288.7,0.74530,10.1021/je00004a039
+mtbe,299.8,0.73379,10.1021/je00004a039
+mtbe,310.9,0.72178,10.1021/je00004a039
+mtbe,322.0,0.70959,10.1021/je00004a039
+formamide,293.15,1.13300,10.1007/s10953-007-9122-9
+formamide,298.15,1.12900,10.1007/s10953-007-9122-9
+formamide,303.15,1.12500,10.1007/s10953-007-9122-9
+formamide,308.15,1.12100,10.1007/s10953-007-9122-9
+formamide,313.15,1.11700,10.1007/s10953-007-9122-9
+formamide,318.15,1.11290,10.1007/s10953-007-9122-9
+formamide,278.15,1.146620,10.1021/acs.jced.6b00786
+formamide,288.15,1.138169,10.1021/acs.jced.6b00786
+formamide,298.15,1.129728,10.1021/acs.jced.6b00786
+formamide,308.15,1.121225,10.1021/acs.jced.6b00786
+formamide,323.15,1.108459,10.1021/acs.jced.6b00786
+formamide,288.15,1.13734,10.1016/j.jct.2007.05.015
+formamide,293.15,1.13267,10.1016/j.jct.2007.05.015
+formamide,296.15,1.12994,10.1016/j.jct.2007.05.015
+formamide,298.15,1.12878,10.1016/j.jct.2007.05.015
+formamide,300.15,1.12648,10.1016/j.jct.2007.05.015
+formamide,303.15,1.12436,10.1016/j.jct.2007.05.015
+formamide,308.15,1.11984,10.1016/j.jct.2007.05.015
+diethyl ether,243.15,0.768339,10.1016/j.fluid.2008.06.014
+diethyl ether,253.15,0.758413,10.1016/j.fluid.2008.06.014
+diethyl ether,263.15,0.747885,10.1016/j.fluid.2008.06.014
+diethyl ether,273.15,0.736593,10.1016/j.fluid.2008.06.014
+diethyl ether,283.15,0.725632,10.1016/j.fluid.2008.06.014
+diethyl ether,293.15,0.714517,10.1016/j.fluid.2008.06.014
+diethyl ether,298.15,0.7077,10.1016/S0378-3812(99)00032-1
+diethyl ether,293.15,0.7135,10.1016/S0378-3812(99)00032-1
+diethyl ether,288.15,0.7192,10.1016/S0378-3812(99)00032-1
+diethyl ether,298.15,0.7083,10.1021/je100594u
+cyclopentanone,288.15,0.95399,10.1021/je901052w
+cyclopentanone,298.15,0.94435,10.1021/je901052w
+cyclopentanone,308.15,0.93469,10.1021/je901052w
+cyclopentanone,318.15,0.92499,10.1021/je901052w
+cyclopentanone,293.15,0.9493,10.1016/j.molliq.2017.02.011
+cyclopentanone,298.15,0.9445,10.1016/j.molliq.2017.02.011
+cyclopentanone,303.15,0.9397,10.1016/j.molliq.2017.02.011
+cyclopentanone,308.15,0.9348,10.1016/j.molliq.2017.02.011
+cyclopentanone,293.15,0.94934,10.1007/s10973-014-3978-x
+cyclopentanone,298.15,0.94452,10.1007/s10973-014-3978-x
+cyclopentanone,303.15,0.93968,10.1007/s10973-014-3978-x
+cyclopentanone,308.15,0.93484,10.1007/s10973-014-3978-x
