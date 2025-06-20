@@ -55,7 +55,7 @@ n_sources = df['Source'].nunique()
 n_solvents = df['Solvent'].nunique()
 t_min = df['Temperature_K'].min()
 t_max = df['Temperature_K'].max()
-col1intro, col2intro, col3intro = st.columns([1, 2, 3])
+col1intro, col2intro, col3intro = st.columns([1, 1, 2])
 col1intro.markdown(f"""
 # BigSolDB 2.0
 
