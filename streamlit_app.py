@@ -55,7 +55,7 @@ n_sources = df['Source'].nunique()
 n_solvents = df['Solvent'].nunique()
 t_min = df['Temperature_K'].min()
 t_max = df['Temperature_K'].max()
-col1intro, col2intro = st.columns([1, 2])
+col1intro, col2intro, col3intro = st.columns([1, 2, 3])
 col1intro.markdown(f"""
 # BigSolDB 2.0
 
@@ -69,6 +69,13 @@ col2intro.markdown(f"""
 * **{n_sources}** literature sources
 * **{n_solvents}** solvents
 * **{t_min}-{t_max}** temperature range
+""")
+
+col3intro.markdown(f"""
+# Contributing to the dataset:
+We encourage researchers to contribute to further development of the dataset either by performing literature screenings in the future or by standardized data contributions from the laboratories from all around the world. 
+
+To supply the data in any format as well as any other suggestions/ideas regarding the BigSolDB project please contact: [lewa.krasnovs@gmail.com](mailto:lewa.krasnovs@gmail.com)
 """)
 
 tabs = st.tabs(["Explore", "Search by Compound Name", "Search by Molecular Structure", "Random Solubility🎲"])
