@@ -60,6 +60,8 @@ col1intro.markdown(f"""
 # BigSolDB 2.0
 
 Download BigSolDB 2.0: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15094979.svg)](https://doi.org/10.5281/zenodo.15094979)
+                   
+If you are using our database or the App please cite: Krasnov, L., Malikov, D., Kiseleva, M. et al. **BigSolDB 2.0, dataset of solubility values for organic compounds in different solvents at various temperatures**. Sci Data 12, 1236 (2025). https://doi.org/10.1038/s41597-025-05559-8
 """)
 
 col2intro.markdown(f"""
